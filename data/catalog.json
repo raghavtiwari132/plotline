@@ -1,0 +1,5825 @@
+{
+ "generatedAt": "2026-10-11T16:25:11+00:00",
+ "sources": {
+  "tmdb": false,
+  "omdb": false
+ },
+ "items": [
+  {
+   "id": "m-inception",
+   "type": "movie",
+   "title": "Inception",
+   "year": 2010,
+   "genres": [
+    "scifi",
+    "action",
+    "thriller"
+   ],
+   "moods": [
+    "mindbending",
+    "thrilling"
+   ],
+   "lang": "en",
+   "runtime": 148,
+   "creators": [
+    "Christopher Nolan"
+   ],
+   "cast": [
+    "Leonardo DiCaprio",
+    "Joseph Gordon-Levitt",
+    "Elliot Page"
+   ],
+   "synopsis": "A thief who steals secrets from inside people's dreams is offered one last job: plant an idea instead of taking one.",
+   "imdb": 8.8,
+   "providers": [
+    "rent"
+   ],
+   "wiki": "Inception",
+   "source": "seed",
+   "qid": "Q25188",
+   "views30": 106040,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/2/2e/Inception_%282010%29_theatrical_poster.jpg",
+   "posterW": 220,
+   "posterH": 326,
+   "imdbId": "tt1375666",
+   "tmdb": {
+    "type": "movie",
+    "id": "27205"
+   },
+   "trailer": "YoHD9XEInc0",
+   "backdrop": "https://i.ytimg.com/vi/YoHD9XEInc0/maxresdefault.jpg",
+   "pop": 80
+  },
+  {
+   "id": "m-interstellar",
+   "type": "movie",
+   "title": "Interstellar",
+   "year": 2014,
+   "genres": [
+    "scifi",
+    "drama",
+    "adventure"
+   ],
+   "moods": [
+    "mindbending",
+    "emotional",
+    "epic"
+   ],
+   "lang": "en",
+   "runtime": 169,
+   "creators": [
+    "Christopher Nolan"
+   ],
+   "cast": [
+    "Matthew McConaughey",
+    "Anne Hathaway",
+    "Jessica Chastain"
+   ],
+   "synopsis": "With Earth failing, a former pilot leaves his children behind to cross a wormhole in search of a new home for humanity.",
+   "imdb": 8.7,
+   "providers": [
+    "rent"
+   ],
+   "wiki": "Interstellar (film)",
+   "source": "seed",
+   "qid": "Q13417189",
+   "views30": 200941,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg",
+   "posterW": 220,
+   "posterH": 326,
+   "imdbId": "tt0816692",
+   "tmdb": {
+    "type": "movie",
+    "id": "157336"
+   },
+   "trailer": "zSWdZVtXT7E",
+   "backdrop": "https://i.ytimg.com/vi/zSWdZVtXT7E/maxresdefault.jpg",
+   "pop": 85
+  },
+  {
+   "id": "m-darkknight",
+   "type": "movie",
+   "title": "The Dark Knight",
+   "year": 2008,
+   "genres": [
+    "action",
+    "crime",
+    "drama"
+   ],
+   "moods": [
+    "dark",
+    "thrilling"
+   ],
+   "lang": "en",
+   "runtime": 152,
+   "creators": [
+    "Christopher Nolan"
+   ],
+   "cast": [
+    "Christian Bale",
+    "Heath Ledger",
+    "Aaron Eckhart"
+   ],
+   "synopsis": "Batman's war on Gotham's mob is upended by the Joker, a gleeful agent of chaos who wants to watch the city turn on itself.",
+   "imdb": 9.0,
+   "providers": [
+    "hbo"
+   ],
+   "wiki": "The Dark Knight",
+   "source": "seed",
+   "qid": "Q163872",
+   "views30": 132715,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/1/1c/The_Dark_Knight_%282008_film%29.jpg",
+   "posterW": 259,
+   "posterH": 383,
+   "imdbId": "tt0468569",
+   "tmdb": {
+    "type": "movie",
+    "id": "155"
+   },
+   "trailer": "EXeTwQWrcwY",
+   "backdrop": "https://i.ytimg.com/vi/EXeTwQWrcwY/maxresdefault.jpg",
+   "pop": 82
+  },
+  {
+   "id": "m-parasite",
+   "type": "movie",
+   "title": "Parasite",
+   "year": 2019,
+   "genres": [
+    "thriller",
+    "drama",
+    "comedy"
+   ],
+   "moods": [
+    "dark",
+    "mindbending"
+   ],
+   "lang": "ko",
+   "runtime": 132,
+   "creators": [
+    "Bong Joon-ho"
+   ],
+   "cast": [
+    "Song Kang-ho",
+    "Cho Yeo-jeong",
+    "Choi Woo-shik"
+   ],
+   "synopsis": "A struggling family cons its way into the lives of a wealthy household, until a secret in the basement changes everything.",
+   "imdb": 8.5,
+   "providers": [
+    "rent"
+   ],
+   "wiki": "Parasite (2019 film)",
+   "source": "seed",
+   "qid": "Q61448040",
+   "views30": 95006,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/5/53/Parasite_%282019_film%29.png",
+   "posterW": 265,
+   "posterH": 378,
+   "imdbId": "tt6751668",
+   "tmdb": {
+    "type": "movie",
+    "id": "496243"
+   },
+   "trailer": "isOGD_7hNIY",
+   "backdrop": "https://i.ytimg.com/vi/isOGD_7hNIY/maxresdefault.jpg",
+   "pop": 80
+  },
+  {
+   "id": "m-spiritedaway",
+   "type": "movie",
+   "title": "Spirited Away",
+   "year": 2001,
+   "genres": [
+    "animation",
+    "fantasy",
+    "family"
+   ],
+   "moods": [
+    "cozy",
+    "feelgood",
+    "epic"
+   ],
+   "lang": "ja",
+   "runtime": 125,
+   "creators": [
+    "Hayao Miyazaki"
+   ],
+   "cast": [
+    "Rumi Hiiragi",
+    "Miyu Irino"
+   ],
+   "synopsis": "A sulky ten-year-old stumbles into a bathhouse for spirits and must work there to free her parents from a witch's curse.",
+   "imdb": 8.6,
+   "providers": [
+    "ghibli"
+   ],
+   "wiki": "Spirited Away",
+   "source": "seed",
+   "qid": "Q155653",
+   "views30": 77292,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/d/db/Spirited_Away_Japanese_poster.png",
+   "posterW": 265,
+   "posterH": 376,
+   "imdbId": "tt0245429",
+   "tmdb": {
+    "type": "movie",
+    "id": "129"
+   },
+   "trailer": "ByXuk9QqQkk",
+   "backdrop": "https://i.ytimg.com/vi/ByXuk9QqQkk/maxresdefault.jpg",
+   "pop": 78
+  },
+  {
+   "id": "m-eeaao",
+   "type": "movie",
+   "title": "Everything Everywhere All at Once",
+   "year": 2022,
+   "genres": [
+    "scifi",
+    "comedy",
+    "action"
+   ],
+   "moods": [
+    "mindbending",
+    "emotional",
+    "funny"
+   ],
+   "lang": "en",
+   "runtime": 139,
+   "creators": [
+    "Daniel Kwan",
+    "Daniel Scheinert"
+   ],
+   "cast": [
+    "Michelle Yeoh",
+    "Ke Huy Quan",
+    "Stephanie Hsu"
+   ],
+   "synopsis": "An overwhelmed laundromat owner discovers she can borrow skills from her other selves across the multiverse, just as it starts to collapse.",
+   "imdb": 7.8,
+   "providers": [
+    "rent"
+   ],
+   "wiki": "Everything Everywhere All at Once",
+   "source": "seed",
+   "qid": "Q83808444",
+   "views30": 116696,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/1/1e/Everything_Everywhere_All_at_Once.jpg",
+   "posterW": 250,
+   "posterH": 370,
+   "imdbId": "tt6710474",
+   "tmdb": {
+    "type": "movie",
+    "id": "545611"
+   },
+   "trailer": "wxN1T1uxQ2g",
+   "backdrop": "https://i.ytimg.com/vi/wxN1T1uxQ2g/maxresdefault.jpg",
+   "pop": 81
+  },
+  {
+   "id": "m-dune2",
+   "type": "movie",
+   "title": "Dune: Part Two",
+   "year": 2024,
+   "released": "2024-03-01",
+   "genres": [
+    "scifi",
+    "adventure",
+    "drama"
+   ],
+   "moods": [
+    "epic"
+   ],
+   "lang": "en",
+   "runtime": 166,
+   "creators": [
+    "Denis Villeneuve"
+   ],
+   "cast": [
+    "Timothée Chalamet",
+    "Zendaya",
+    "Rebecca Ferguson"
+   ],
+   "synopsis": "Paul Atreides joins the Fremen to strike back at the empire that destroyed his family, while visions of a holy war close in.",
+   "imdb": 8.5,
+   "providers": [
+    "hbo"
+   ],
+   "wiki": "Dune: Part Two",
+   "pair": "b-dune",
+   "source": "seed",
+   "qid": "Q109228991",
+   "views30": 109850,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/5/52/Dune_Part_Two_poster.jpeg",
+   "posterW": 259,
+   "posterH": 384,
+   "imdbId": "tt15239678",
+   "tmdb": {
+    "type": "movie",
+    "id": "693134"
+   },
+   "trailer": "Way9Dexny3w",
+   "backdrop": "https://i.ytimg.com/vi/Way9Dexny3w/maxresdefault.jpg",
+   "pop": 81
+  },
+  {
+   "id": "m-oppenheimer",
+   "type": "movie",
+   "title": "Oppenheimer",
+   "year": 2023,
+   "genres": [
+    "historical",
+    "drama",
+    "thriller"
+   ],
+   "moods": [
+    "dark",
+    "epic"
+   ],
+   "lang": "en",
+   "runtime": 180,
+   "creators": [
+    "Christopher Nolan"
+   ],
+   "cast": [
+    "Cillian Murphy",
+    "Emily Blunt",
+    "Robert Downey Jr."
+   ],
+   "synopsis": "The physicist who led the Manhattan Project races to build the atomic bomb, then lives with what it unleashed.",
+   "imdb": 8.3,
+   "providers": [
+    "rent"
+   ],
+   "wiki": "Oppenheimer (film)",
+   "source": "seed",
+   "qid": "Q108839994",
+   "views30": 219492,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/4/4a/Oppenheimer_%28film%29.jpg",
+   "posterW": 259,
+   "posterH": 384,
+   "imdbId": "tt15398776",
+   "tmdb": {
+    "type": "movie",
+    "id": "872585"
+   },
+   "trailer": "uYPbbksJxIg",
+   "backdrop": "https://i.ytimg.com/vi/uYPbbksJxIg/maxresdefault.jpg",
+   "pop": 85
+  },
+  {
+   "id": "m-spiderverse2",
+   "type": "movie",
+   "title": "Spider-Man: Across the Spider-Verse",
+   "year": 2023,
+   "genres": [
+    "animation",
+    "action",
+    "adventure"
+   ],
+   "moods": [
+    "feelgood",
+    "epic"
+   ],
+   "lang": "en",
+   "runtime": 140,
+   "creators": [
+    "Joaquim Dos Santos",
+    "Kemp Powers",
+    "Justin K. Thompson"
+   ],
+   "cast": [
+    "Shameik Moore",
+    "Hailee Steinfeld",
+    "Oscar Isaac"
+   ],
+   "synopsis": "Miles Morales is pulled across the multiverse and finds himself at odds with a society of Spider-People over what a hero must sacrifice.",
+   "imdb": 8.5,
+   "providers": [
+    "netflix"
+   ],
+   "wiki": "Spider-Man: Across the Spider-Verse",
+   "source": "seed",
+   "qid": "Q76448600",
+   "views30": 94945,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/b/b4/Spider-Man-_Across_the_Spider-Verse_poster.jpg",
+   "posterW": 259,
+   "posterH": 385,
+   "imdbId": "tt9362722",
+   "tmdb": {
+    "type": "movie",
+    "id": "569094"
+   },
+   "trailer": "shW9i6k8cB0",
+   "backdrop": "https://i.ytimg.com/vi/shW9i6k8cB0/maxresdefault.jpg",
+   "pop": 80
+  },
+  {
+   "id": "m-lalaland",
+   "type": "movie",
+   "title": "La La Land",
+   "year": 2016,
+   "genres": [
+    "romance",
+    "drama",
+    "musical"
+   ],
+   "moods": [
+    "emotional",
+    "feelgood"
+   ],
+   "lang": "en",
+   "runtime": 128,
+   "creators": [
+    "Damien Chazelle"
+   ],
+   "cast": [
+    "Ryan Gosling",
+    "Emma Stone",
+    "John Legend"
+   ],
+   "synopsis": "A jazz pianist and an aspiring actress fall in love in Los Angeles while chasing dreams that may pull them apart.",
+   "imdb": 8.0,
+   "providers": [
+    "rent"
+   ],
+   "wiki": "La La Land",
+   "source": "seed",
+   "qid": "Q20856802",
+   "views30": 83098,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/a/ab/La_La_Land_%28film%29.png",
+   "posterW": 260,
+   "posterH": 385,
+   "imdbId": "tt3783958",
+   "tmdb": {
+    "type": "movie",
+    "id": "313369"
+   },
+   "trailer": "0pdqf4P9MB8",
+   "backdrop": "https://i.ytimg.com/vi/0pdqf4P9MB8/maxresdefault.jpg",
+   "pop": 79
+  },
+  {
+   "id": "m-getout",
+   "type": "movie",
+   "title": "Get Out",
+   "year": 2017,
+   "genres": [
+    "horror",
+    "mystery",
+    "thriller"
+   ],
+   "moods": [
+    "dark",
+    "thrilling"
+   ],
+   "lang": "en",
+   "runtime": 104,
+   "creators": [
+    "Jordan Peele"
+   ],
+   "cast": [
+    "Daniel Kaluuya",
+    "Allison Williams",
+    "Catherine Keener"
+   ],
+   "synopsis": "A weekend visit to his girlfriend's family estate turns sinister for a young Black photographer.",
+   "imdb": 7.8,
+   "providers": [
+    "rent"
+   ],
+   "wiki": "Get Out",
+   "source": "seed",
+   "qid": "Q25136235",
+   "views30": 113083,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/a/a3/Get_Out_poster.png",
+   "posterW": 258,
+   "posterH": 387,
+   "imdbId": "tt5052448",
+   "tmdb": {
+    "type": "movie",
+    "id": "419430"
+   },
+   "trailer": "DzfpyUB60YY",
+   "backdrop": "https://i.ytimg.com/vi/DzfpyUB60YY/maxresdefault.jpg",
+   "pop": 81
+  },
+  {
+   "id": "m-grandbudapest",
+   "type": "movie",
+   "title": "The Grand Budapest Hotel",
+   "year": 2014,
+   "genres": [
+    "comedy",
+    "adventure",
+    "crime"
+   ],
+   "moods": [
+    "funny",
+    "cozy"
+   ],
+   "lang": "en",
+   "runtime": 99,
+   "creators": [
+    "Wes Anderson"
+   ],
+   "cast": [
+    "Ralph Fiennes",
+    "Tony Revolori",
+    "Saoirse Ronan"
+   ],
+   "synopsis": "A legendary concierge and his loyal lobby boy are swept into a caper over a stolen painting and a family fortune.",
+   "imdb": 8.1,
+   "providers": [
+    "disney"
+   ],
+   "wiki": "The Grand Budapest Hotel",
+   "source": "seed",
+   "qid": "Q3521099",
+   "views30": 69308,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/1/1c/The_Grand_Budapest_Hotel.png",
+   "posterW": 220,
+   "posterH": 344,
+   "imdbId": "tt2278388",
+   "tmdb": {
+    "type": "movie",
+    "id": "120467"
+   },
+   "trailer": "1Fg5iWmQjwk",
+   "pop": 77
+  },
+  {
+   "id": "m-knivesout",
+   "type": "movie",
+   "title": "Knives Out",
+   "year": 2019,
+   "genres": [
+    "mystery",
+    "comedy",
+    "crime"
+   ],
+   "moods": [
+    "funny",
+    "thrilling"
+   ],
+   "lang": "en",
+   "runtime": 130,
+   "creators": [
+    "Rian Johnson"
+   ],
+   "cast": [
+    "Daniel Craig",
+    "Ana de Armas",
+    "Chris Evans"
+   ],
+   "synopsis": "When a famous crime novelist dies after his birthday party, a drawling detective sets out to untangle his feuding family.",
+   "imdb": 7.9,
+   "providers": [
+    "rent"
+   ],
+   "wiki": "Knives Out",
+   "source": "seed",
+   "qid": "Q57982486",
+   "views30": 83396,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/1/1f/Knives_Out_poster.jpeg",
+   "posterW": 260,
+   "posterH": 385,
+   "imdbId": "tt8946378",
+   "tmdb": {
+    "type": "movie",
+    "id": "546554"
+   },
+   "trailer": "qGqiHJTsRkQ",
+   "backdrop": "https://i.ytimg.com/vi/qGqiHJTsRkQ/maxresdefault.jpg",
+   "pop": 79
+  },
+  {
+   "id": "m-rrr",
+   "type": "movie",
+   "title": "RRR",
+   "year": 2022,
+   "genres": [
+    "action",
+    "drama",
+    "historical"
+   ],
+   "moods": [
+    "epic",
+    "thrilling"
+   ],
+   "lang": "te",
+   "runtime": 182,
+   "creators": [
+    "S. S. Rajamouli"
+   ],
+   "cast": [
+    "N. T. Rama Rao Jr.",
+    "Ram Charan",
+    "Alia Bhatt"
+   ],
+   "synopsis": "Two revolutionaries in 1920s India form an unlikely friendship while on opposite sides of a fight against the British Raj.",
+   "imdb": 7.8,
+   "providers": [
+    "netflix"
+   ],
+   "wiki": "RRR",
+   "source": "seed",
+   "qid": "Q60424165",
+   "views30": 66479,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/d/d7/RRR_Poster.jpg",
+   "posterW": 257,
+   "posterH": 388,
+   "imdbId": "tt8178634",
+   "tmdb": {
+    "type": "movie",
+    "id": "579974"
+   },
+   "trailer": "GY4BgdUSpbE",
+   "backdrop": "https://i.ytimg.com/vi/GY4BgdUSpbE/maxresdefault.jpg",
+   "pop": 77
+  },
+  {
+   "id": "m-3idiots",
+   "type": "movie",
+   "title": "3 Idiots",
+   "year": 2009,
+   "genres": [
+    "comedy",
+    "drama"
+   ],
+   "moods": [
+    "feelgood",
+    "funny",
+    "emotional"
+   ],
+   "lang": "hi",
+   "runtime": 170,
+   "creators": [
+    "Rajkumar Hirani"
+   ],
+   "cast": [
+    "Aamir Khan",
+    "R. Madhavan",
+    "Sharman Joshi"
+   ],
+   "synopsis": "Two friends search for the free-spirited classmate who once turned their pressure-cooker engineering college upside down.",
+   "imdb": 8.4,
+   "providers": [
+    "rent"
+   ],
+   "wiki": "3 Idiots",
+   "source": "seed",
+   "qid": "Q229633",
+   "views30": 37094,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/d/df/3_idiots_poster.jpg",
+   "posterW": 262,
+   "posterH": 379,
+   "imdbId": "tt1187043",
+   "tmdb": {
+    "type": "movie",
+    "id": "20453"
+   },
+   "trailer": "K0eDlFX9GMc",
+   "backdrop": "https://i.ytimg.com/vi/K0eDlFX9GMc/maxresdefault.jpg",
+   "pop": 73
+  },
+  {
+   "id": "m-12thfail",
+   "type": "movie",
+   "title": "12th Fail",
+   "year": 2023,
+   "genres": [
+    "drama",
+    "historical"
+   ],
+   "moods": [
+    "emotional",
+    "feelgood"
+   ],
+   "lang": "hi",
+   "runtime": 147,
+   "creators": [
+    "Vidhu Vinod Chopra"
+   ],
+   "cast": [
+    "Vikrant Massey",
+    "Medha Shankar"
+   ],
+   "synopsis": "Based on a true story, a boy from a poor Chambal village refuses to give up on India's hardest civil service exam.",
+   "imdb": 8.8,
+   "providers": [
+    "jiohotstar"
+   ],
+   "wiki": "12th Fail",
+   "source": "seed",
+   "qid": "Q122921105",
+   "views30": 25297,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/f/f2/12th_Fail_poster.jpeg",
+   "posterW": 282,
+   "posterH": 353,
+   "imdbId": "tt23849204",
+   "tmdb": {
+    "type": "movie",
+    "id": "1163258"
+   },
+   "trailer": "KjbtuqENvVE",
+   "backdrop": "https://i.ytimg.com/vi/KjbtuqENvVE/maxresdefault.jpg",
+   "pop": 70
+  },
+  {
+   "id": "m-laapataa",
+   "type": "movie",
+   "title": "Laapataa Ladies",
+   "year": 2024,
+   "genres": [
+    "comedy",
+    "drama"
+   ],
+   "moods": [
+    "feelgood",
+    "funny",
+    "cozy"
+   ],
+   "lang": "hi",
+   "runtime": 124,
+   "creators": [
+    "Kiran Rao"
+   ],
+   "cast": [
+    "Nitanshi Goel",
+    "Pratibha Ranta",
+    "Sparsh Shrivastava"
+   ],
+   "synopsis": "Two veiled brides get swapped on a crowded train, setting off a warm, funny search across rural India.",
+   "imdb": 8.4,
+   "providers": [
+    "netflix"
+   ],
+   "wiki": "Laapataa Ladies",
+   "source": "seed",
+   "qid": "Q124714626",
+   "views30": 27027,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/5/52/Laapataa_Ladies_poster.jpg",
+   "posterW": 282,
+   "posterH": 353,
+   "imdbId": "tt21626284",
+   "tmdb": {
+    "type": "movie",
+    "id": "1163194"
+   },
+   "trailer": "tF1JN2pT_sM",
+   "backdrop": "https://i.ytimg.com/vi/tF1JN2pT_sM/maxresdefault.jpg",
+   "pop": 71
+  },
+  {
+   "id": "m-whiplash",
+   "type": "movie",
+   "title": "Whiplash",
+   "year": 2014,
+   "genres": [
+    "drama",
+    "musical"
+   ],
+   "moods": [
+    "thrilling",
+    "dark"
+   ],
+   "lang": "en",
+   "runtime": 106,
+   "creators": [
+    "Damien Chazelle"
+   ],
+   "cast": [
+    "Miles Teller",
+    "J. K. Simmons"
+   ],
+   "synopsis": "A young jazz drummer is pushed to the edge by a conductor who believes greatness demands cruelty.",
+   "imdb": 8.5,
+   "providers": [
+    "rent"
+   ],
+   "wiki": "Whiplash (2014 film)",
+   "source": "seed",
+   "qid": "Q15648198",
+   "views30": 99842,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/0/01/Whiplash_poster.jpg",
+   "posterW": 220,
+   "posterH": 326,
+   "imdbId": "tt2582802",
+   "tmdb": {
+    "type": "movie",
+    "id": "244786"
+   },
+   "trailer": "7d_jQycdQGo",
+   "backdrop": "https://i.ytimg.com/vi/7d_jQycdQGo/maxresdefault.jpg",
+   "pop": 80
+  },
+  {
+   "id": "m-shawshank",
+   "type": "movie",
+   "title": "The Shawshank Redemption",
+   "year": 1994,
+   "genres": [
+    "drama",
+    "crime"
+   ],
+   "moods": [
+    "emotional"
+   ],
+   "lang": "en",
+   "runtime": 142,
+   "creators": [
+    "Frank Darabont"
+   ],
+   "cast": [
+    "Tim Robbins",
+    "Morgan Freeman"
+   ],
+   "synopsis": "A banker sentenced to life for a crime he didn't commit holds onto hope and an unlikely friendship over decades in prison.",
+   "imdb": 9.3,
+   "providers": [
+    "rent"
+   ],
+   "wiki": "The Shawshank Redemption",
+   "source": "seed",
+   "qid": "Q172241",
+   "views30": 179119,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/8/81/ShawshankRedemptionMoviePoster.jpg",
+   "posterW": 248,
+   "posterH": 372,
+   "imdbId": "tt0111161",
+   "tmdb": {
+    "type": "movie",
+    "id": "278"
+   },
+   "trailer": "NmzuHjWmXOc",
+   "backdrop": "https://i.ytimg.com/vi/NmzuHjWmXOc/maxresdefault.jpg",
+   "pop": 84
+  },
+  {
+   "id": "m-kpopdh",
+   "type": "movie",
+   "title": "KPop Demon Hunters",
+   "year": 2025,
+   "released": "2025-06-20",
+   "genres": [
+    "animation",
+    "musical",
+    "action",
+    "fantasy"
+   ],
+   "moods": [
+    "feelgood",
+    "funny",
+    "epic"
+   ],
+   "lang": "en",
+   "runtime": 96,
+   "creators": [
+    "Maggie Kang",
+    "Chris Appelhans"
+   ],
+   "cast": [
+    "Arden Cho",
+    "May Hong",
+    "Ji-young Yoo"
+   ],
+   "synopsis": "A K-pop girl group secretly protects fans from demons, until a rival boy band of demons in disguise steals the spotlight.",
+   "imdb": 7.6,
+   "providers": [
+    "netflix"
+   ],
+   "wiki": "KPop Demon Hunters",
+   "source": "seed",
+   "qid": "Q130268157",
+   "views30": 158575,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/9/93/KPDHposter.jpeg",
+   "posterW": 260,
+   "posterH": 384,
+   "imdbId": "tt14205554",
+   "tmdb": {
+    "type": "movie",
+    "id": "803796"
+   },
+   "trailer": "3JTVQTk36R8",
+   "backdrop": "https://i.ytimg.com/vi/3JTVQTk36R8/maxresdefault.jpg",
+   "pop": 83
+  },
+  {
+   "id": "m-sinners",
+   "type": "movie",
+   "title": "Sinners",
+   "year": 2025,
+   "released": "2025-04-18",
+   "genres": [
+    "horror",
+    "thriller",
+    "historical",
+    "drama"
+   ],
+   "moods": [
+    "dark",
+    "thrilling"
+   ],
+   "lang": "en",
+   "runtime": 137,
+   "creators": [
+    "Ryan Coogler"
+   ],
+   "cast": [
+    "Michael B. Jordan",
+    "Hailee Steinfeld",
+    "Delroy Lindo"
+   ],
+   "synopsis": "Twin brothers return to 1930s Mississippi to open a juke joint, and their opening night draws something far worse than trouble.",
+   "imdb": 7.6,
+   "providers": [
+    "hbo"
+   ],
+   "wiki": "Sinners (2025 film)",
+   "source": "seed",
+   "qid": "Q125473145",
+   "views30": 254782,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/5/5f/Sinners_%282025_film%29_poster.jpg",
+   "posterW": 259,
+   "posterH": 384,
+   "imdbId": "tt31193180",
+   "tmdb": {
+    "type": "movie",
+    "id": "1233413"
+   },
+   "trailer": "bKGxHflevuk",
+   "backdrop": "https://i.ytimg.com/vi/bKGxHflevuk/maxresdefault.jpg",
+   "pop": 86
+  },
+  {
+   "id": "m-frankenstein",
+   "type": "movie",
+   "title": "Frankenstein",
+   "year": 2025,
+   "released": "2025-11-07",
+   "genres": [
+    "horror",
+    "drama",
+    "fantasy"
+   ],
+   "moods": [
+    "dark",
+    "emotional",
+    "epic"
+   ],
+   "lang": "en",
+   "runtime": 150,
+   "creators": [
+    "Guillermo del Toro"
+   ],
+   "cast": [
+    "Oscar Isaac",
+    "Jacob Elordi",
+    "Mia Goth"
+   ],
+   "synopsis": "Guillermo del Toro's take on the obsessive scientist and the creature he builds, then abandons.",
+   "imdb": null,
+   "providers": [
+    "netflix"
+   ],
+   "wiki": "Frankenstein (2025 film)",
+   "source": "seed",
+   "qid": "Q124393045",
+   "views30": 83900,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/9/94/Frankenstein_2025_film_poster.jpg",
+   "posterW": 250,
+   "posterH": 375,
+   "imdbId": "tt1312221",
+   "tmdb": {
+    "type": "movie",
+    "id": "1062722"
+   },
+   "trailer": "8aulMPhE12g",
+   "backdrop": "https://i.ytimg.com/vi/8aulMPhE12g/maxresdefault.jpg",
+   "pop": 79
+  },
+  {
+   "id": "m-obaa",
+   "type": "movie",
+   "title": "One Battle After Another",
+   "year": 2025,
+   "released": "2025-09-26",
+   "genres": [
+    "action",
+    "thriller",
+    "comedy",
+    "drama"
+   ],
+   "moods": [
+    "thrilling",
+    "dark",
+    "funny"
+   ],
+   "lang": "en",
+   "runtime": 161,
+   "creators": [
+    "Paul Thomas Anderson"
+   ],
+   "cast": [
+    "Leonardo DiCaprio",
+    "Sean Penn",
+    "Chase Infiniti"
+   ],
+   "synopsis": "A burned-out ex-revolutionary is dragged back into the fight when an old enemy resurfaces and his daughter goes missing.",
+   "imdb": null,
+   "providers": [
+    "hbo"
+   ],
+   "wiki": "One Battle After Another",
+   "source": "seed",
+   "qid": "Q117085614",
+   "views30": 206102,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/5/5d/One_Battle_After_Another.jpg",
+   "posterW": 259,
+   "posterH": 384,
+   "imdbId": "tt30144839",
+   "tmdb": {
+    "type": "movie",
+    "id": "1054867"
+   },
+   "trailer": "feOQFKv2Lw4",
+   "pop": 85
+  },
+  {
+   "id": "m-phm",
+   "type": "movie",
+   "title": "Project Hail Mary",
+   "year": 2026,
+   "released": "2026-03-20",
+   "genres": [
+    "scifi",
+    "adventure",
+    "comedy"
+   ],
+   "moods": [
+    "feelgood",
+    "emotional",
+    "funny"
+   ],
+   "lang": "en",
+   "creators": [
+    "Phil Lord",
+    "Christopher Miller"
+   ],
+   "cast": [
+    "Ryan Gosling",
+    "Sandra Hüller"
+   ],
+   "synopsis": "A schoolteacher wakes up alone on a spaceship with no memory, and slowly realizes he's humanity's last shot at saving the Sun.",
+   "imdb": null,
+   "providers": [
+    "prime"
+   ],
+   "wiki": "Project Hail Mary (film)",
+   "pair": "b-phm",
+   "source": "seed",
+   "qid": "Q107105860",
+   "views30": 386536,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/3/3b/Project_Hail_Mary_poster.jpg",
+   "posterW": 260,
+   "posterH": 385,
+   "imdbId": "tt12042730",
+   "tmdb": {
+    "type": "movie",
+    "id": "687163"
+   },
+   "trailer": "m08TxIsFTRI",
+   "backdrop": "https://i.ytimg.com/vi/m08TxIsFTRI/maxresdefault.jpg",
+   "pop": 89
+  },
+  {
+   "id": "m-martian",
+   "type": "movie",
+   "title": "The Martian",
+   "year": 2015,
+   "genres": [
+    "scifi",
+    "adventure",
+    "comedy"
+   ],
+   "moods": [
+    "feelgood",
+    "thrilling"
+   ],
+   "lang": "en",
+   "runtime": 144,
+   "creators": [
+    "Ridley Scott"
+   ],
+   "cast": [
+    "Matt Damon",
+    "Jessica Chastain",
+    "Chiwetel Ejiofor"
+   ],
+   "synopsis": "Stranded on Mars and presumed dead, a botanist has to science his way to survival until rescue is possible.",
+   "imdb": 8.0,
+   "providers": [
+    "disney"
+   ],
+   "wiki": "The Martian (film)",
+   "pair": "b-martian",
+   "source": "seed",
+   "qid": "Q18547944",
+   "views30": 83803,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/c/cd/The_Martian_film_poster.jpg",
+   "posterW": 250,
+   "posterH": 375,
+   "imdbId": "tt3659388",
+   "tmdb": {
+    "type": "movie",
+    "id": "286217"
+   },
+   "trailer": "ej3ioOneTy8",
+   "backdrop": "https://i.ytimg.com/vi/ej3ioOneTy8/maxresdefault.jpg",
+   "pop": 79
+  },
+  {
+   "id": "m-gonegirl",
+   "type": "movie",
+   "title": "Gone Girl",
+   "year": 2014,
+   "genres": [
+    "mystery",
+    "thriller",
+    "drama"
+   ],
+   "moods": [
+    "dark",
+    "mindbending"
+   ],
+   "lang": "en",
+   "runtime": 149,
+   "creators": [
+    "David Fincher"
+   ],
+   "cast": [
+    "Ben Affleck",
+    "Rosamund Pike",
+    "Neil Patrick Harris"
+   ],
+   "synopsis": "When his wife vanishes on their anniversary, a husband becomes the media's favorite suspect.",
+   "imdb": 8.1,
+   "providers": [
+    "disney"
+   ],
+   "wiki": "Gone Girl (film)",
+   "pair": "b-gonegirl",
+   "source": "seed",
+   "qid": "Q14920425",
+   "views30": 119165,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/0/05/Gone_Girl_Poster.jpg",
+   "posterW": 220,
+   "posterH": 326,
+   "imdbId": "tt2267998",
+   "tmdb": {
+    "type": "movie",
+    "id": "210577"
+   },
+   "trailer": "2-_-1nJf8Vg",
+   "backdrop": "https://i.ytimg.com/vi/2-_-1nJf8Vg/maxresdefault.jpg",
+   "pop": 81
+  },
+  {
+   "id": "m-hp1",
+   "type": "movie",
+   "title": "Harry Potter and the Philosopher's Stone",
+   "year": 2001,
+   "genres": [
+    "fantasy",
+    "family",
+    "adventure"
+   ],
+   "moods": [
+    "cozy",
+    "feelgood"
+   ],
+   "lang": "en",
+   "runtime": 152,
+   "creators": [
+    "Chris Columbus"
+   ],
+   "cast": [
+    "Daniel Radcliffe",
+    "Rupert Grint",
+    "Emma Watson"
+   ],
+   "synopsis": "An orphan learns on his eleventh birthday that he's a wizard and heads to Hogwarts, where a hidden stone draws dangerous attention.",
+   "imdb": 7.7,
+   "providers": [
+    "hbo"
+   ],
+   "wiki": "Harry Potter and the Philosopher's Stone (film)",
+   "pair": "b-hp1",
+   "yt": "Harry Potter and the Sorcerer's Stone official trailer",
+   "source": "seed",
+   "qid": "Q102438",
+   "views30": 97785,
+   "titleCard": "https://upload.wikimedia.org/wikipedia/en/7/7a/Harry_Potter_and_the_Philosopher%27s_Stone_banner.jpg",
+   "imdbId": "tt0241527",
+   "tmdb": {
+    "type": "movie",
+    "id": "671"
+   },
+   "trailer": "VyHV0BRtdxo",
+   "backdrop": "https://i.ytimg.com/vi/VyHV0BRtdxo/maxresdefault.jpg",
+   "pop": 80
+  },
+  {
+   "id": "m-lotr1",
+   "type": "movie",
+   "title": "The Lord of the Rings: The Fellowship of the Ring",
+   "year": 2001,
+   "genres": [
+    "fantasy",
+    "adventure"
+   ],
+   "moods": [
+    "epic"
+   ],
+   "lang": "en",
+   "runtime": 178,
+   "creators": [
+    "Peter Jackson"
+   ],
+   "cast": [
+    "Elijah Wood",
+    "Ian McKellen",
+    "Viggo Mortensen"
+   ],
+   "synopsis": "A quiet hobbit inherits a ring of terrible power and sets out with eight companions to destroy it.",
+   "imdb": 8.9,
+   "providers": [
+    "rent"
+   ],
+   "wiki": "The Lord of the Rings: The Fellowship of the Ring",
+   "pair": "b-hobbit",
+   "source": "seed",
+   "qid": "Q127367",
+   "views30": 75048,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/f/fb/Lord_Rings_Fellowship_Ring.jpg",
+   "posterW": 218,
+   "posterH": 326,
+   "imdbId": "tt0120737",
+   "tmdb": {
+    "type": "movie",
+    "id": "120"
+   },
+   "trailer": "V75dMMIW2B4",
+   "backdrop": "https://i.ytimg.com/vi/V75dMMIW2B4/maxresdefault.jpg",
+   "pop": 78
+  },
+  {
+   "id": "m-pastlives",
+   "type": "movie",
+   "title": "Past Lives",
+   "year": 2023,
+   "genres": [
+    "romance",
+    "drama"
+   ],
+   "moods": [
+    "emotional"
+   ],
+   "lang": "ko",
+   "runtime": 105,
+   "creators": [
+    "Celine Song"
+   ],
+   "cast": [
+    "Greta Lee",
+    "Teo Yoo",
+    "John Magaro"
+   ],
+   "synopsis": "Childhood sweethearts separated by emigration reconnect twenty years later in New York and face the life they didn't live.",
+   "imdb": 7.8,
+   "providers": [
+    "rent"
+   ],
+   "wiki": "Past Lives (film)",
+   "source": "seed",
+   "qid": "Q116025865",
+   "views30": 35620,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/d/da/Past_Lives_film_poster.png",
+   "posterW": 255,
+   "posterH": 378,
+   "imdbId": "tt13238346",
+   "tmdb": {
+    "type": "movie",
+    "id": "666277"
+   },
+   "trailer": "kA244xewjcI",
+   "backdrop": "https://i.ytimg.com/vi/kA244xewjcI/maxresdefault.jpg",
+   "pop": 73
+  },
+  {
+   "id": "m-topgun2",
+   "type": "movie",
+   "title": "Top Gun: Maverick",
+   "year": 2022,
+   "genres": [
+    "action",
+    "drama"
+   ],
+   "moods": [
+    "thrilling",
+    "feelgood"
+   ],
+   "lang": "en",
+   "runtime": 130,
+   "creators": [
+    "Joseph Kosinski"
+   ],
+   "cast": [
+    "Tom Cruise",
+    "Miles Teller",
+    "Jennifer Connelly"
+   ],
+   "synopsis": "Decades on, Maverick returns to train an elite squad of young pilots for a near-impossible mission.",
+   "imdb": 8.2,
+   "providers": [
+    "rent"
+   ],
+   "wiki": "Top Gun: Maverick",
+   "source": "seed",
+   "qid": "Q31202708",
+   "views30": 148918,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/1/13/Top_Gun_Maverick_Poster.jpg",
+   "posterW": 261,
+   "posterH": 381,
+   "imdbId": "tt1745960",
+   "tmdb": {
+    "type": "movie",
+    "id": "361743"
+   },
+   "trailer": "qSqVVswa420",
+   "backdrop": "https://i.ytimg.com/vi/qSqVVswa420/maxresdefault.jpg",
+   "pop": 83
+  },
+  {
+   "id": "m-hamnet",
+   "type": "movie",
+   "title": "Hamnet",
+   "year": 2025,
+   "released": "2025-11-27",
+   "genres": [
+    "drama",
+    "historical",
+    "romance"
+   ],
+   "moods": [
+    "emotional"
+   ],
+   "lang": "en",
+   "runtime": 125,
+   "creators": [
+    "Chloé Zhao"
+   ],
+   "cast": [
+    "Jessie Buckley",
+    "Paul Mescal"
+   ],
+   "synopsis": "Agnes and her playwright husband William are shattered by the loss of their young son, a grief that finds its way into Hamlet.",
+   "imdb": null,
+   "providers": [
+    "rent"
+   ],
+   "wiki": "Hamnet (film)",
+   "pair": "b-hamnet",
+   "source": "seed",
+   "qid": "Q122741016",
+   "views30": 113607,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/1/1f/Hamnet_film_poster.jpeg",
+   "posterW": 259,
+   "posterH": 384,
+   "imdbId": "tt14905854",
+   "tmdb": {
+    "type": "movie",
+    "id": "858024"
+   },
+   "trailer": "xYcgQMxQwmk",
+   "backdrop": "https://i.ytimg.com/vi/xYcgQMxQwmk/maxresdefault.jpg",
+   "pop": 81
+  },
+  {
+   "id": "s-breakingbad",
+   "type": "show",
+   "title": "Breaking Bad",
+   "year": 2008,
+   "genres": [
+    "crime",
+    "drama",
+    "thriller"
+   ],
+   "moods": [
+    "dark",
+    "thrilling"
+   ],
+   "lang": "en",
+   "seasons": 5,
+   "creators": [
+    "Vince Gilligan"
+   ],
+   "cast": [
+    "Bryan Cranston",
+    "Aaron Paul",
+    "Anna Gunn"
+   ],
+   "synopsis": "A mild chemistry teacher with a terminal diagnosis starts cooking meth to provide for his family, and discovers a taste for power.",
+   "imdb": 9.5,
+   "providers": [
+    "netflix"
+   ],
+   "wiki": "Breaking Bad",
+   "source": "seed",
+   "qid": "Q1079",
+   "views30": 227842,
+   "titleCard": "https://upload.wikimedia.org/wikipedia/commons/7/77/Breaking_Bad_logo.svg",
+   "poster": "https://static.tvmaze.com/uploads/images/original_untouched/501/1253519.jpg",
+   "posterW": 680,
+   "posterH": 1000,
+   "imdbId": "tt0903747",
+   "tmdb": {
+    "type": "tv",
+    "id": "1396"
+   },
+   "trailer": "HhesaQXLuRY",
+   "backdrop": "https://i.ytimg.com/vi/HhesaQXLuRY/maxresdefault.jpg",
+   "pop": 86,
+   "tvmazeId": 169,
+   "network": "AMC",
+   "released": "2012-07-15",
+   "latestSeason": 5
+  },
+  {
+   "id": "s-strangerthings",
+   "type": "show",
+   "title": "Stranger Things",
+   "year": 2016,
+   "released": "2025-11-26",
+   "genres": [
+    "scifi",
+    "horror",
+    "drama"
+   ],
+   "moods": [
+    "thrilling",
+    "epic"
+   ],
+   "lang": "en",
+   "seasons": 5,
+   "creators": [
+    "The Duffer Brothers"
+   ],
+   "cast": [
+    "Millie Bobby Brown",
+    "Finn Wolfhard",
+    "Winona Ryder"
+   ],
+   "synopsis": "In 1980s Hawkins, Indiana, a missing boy leads his friends to secret experiments and a monstrous parallel world.",
+   "imdb": 8.6,
+   "providers": [
+    "netflix"
+   ],
+   "wiki": "Stranger Things",
+   "source": "seed",
+   "qid": "Q19798734",
+   "views30": 163658,
+   "titleCard": "https://upload.wikimedia.org/wikipedia/commons/3/38/Stranger_Things_logo.png",
+   "poster": "https://static.tvmaze.com/uploads/images/original_untouched/595/1489169.jpg",
+   "posterW": 680,
+   "posterH": 1000,
+   "imdbId": "tt4574334",
+   "tmdb": {
+    "type": "tv",
+    "id": "66732"
+   },
+   "olid": "OL9645968A",
+   "trailer": "b9EkMc79ZSU",
+   "backdrop": "https://i.ytimg.com/vi/b9EkMc79ZSU/maxresdefault.jpg",
+   "pop": 83,
+   "tvmazeId": 2993,
+   "network": "Netflix",
+   "latestSeason": 5
+  },
+  {
+   "id": "s-got",
+   "type": "show",
+   "title": "Game of Thrones",
+   "year": 2011,
+   "genres": [
+    "fantasy",
+    "drama",
+    "adventure"
+   ],
+   "moods": [
+    "epic",
+    "dark"
+   ],
+   "lang": "en",
+   "seasons": 8,
+   "creators": [
+    "David Benioff",
+    "D. B. Weiss"
+   ],
+   "cast": [
+    "Emilia Clarke",
+    "Kit Harington",
+    "Peter Dinklage"
+   ],
+   "synopsis": "Noble houses scheme and slaughter for the Iron Throne while an ancient threat gathers beyond the Wall.",
+   "imdb": 9.2,
+   "providers": [
+    "hbo"
+   ],
+   "wiki": "Game of Thrones",
+   "pair": "b-agot",
+   "source": "seed",
+   "qid": "Q23572",
+   "views30": 227735,
+   "titleCard": "https://upload.wikimedia.org/wikipedia/en/d/d8/Game_of_Thrones_title_card.jpg",
+   "poster": "https://static.tvmaze.com/uploads/images/original_untouched/498/1245274.jpg",
+   "posterW": 680,
+   "posterH": 1000,
+   "imdbId": "tt0944947",
+   "tmdb": {
+    "type": "tv",
+    "id": "1399"
+   },
+   "trailer": "iWyeLZ9oP5c",
+   "pop": 86,
+   "tvmazeId": 82,
+   "network": "HBO",
+   "released": "2019-04-14",
+   "latestSeason": 8
+  },
+  {
+   "id": "s-office",
+   "type": "show",
+   "title": "The Office",
+   "year": 2005,
+   "genres": [
+    "comedy"
+   ],
+   "moods": [
+    "funny",
+    "cozy",
+    "feelgood"
+   ],
+   "lang": "en",
+   "seasons": 9,
+   "creators": [
+    "Greg Daniels"
+   ],
+   "cast": [
+    "Steve Carell",
+    "Rainn Wilson",
+    "John Krasinski"
+   ],
+   "synopsis": "A mockumentary crew follows the gloriously awkward staff of a paper company's branch in Scranton, Pennsylvania.",
+   "imdb": 9.0,
+   "providers": [],
+   "wiki": "The Office (American TV series)",
+   "source": "seed",
+   "qid": "Q23831",
+   "views30": 147770,
+   "poster": "https://static.tvmaze.com/uploads/images/original_untouched/481/1204342.jpg",
+   "posterW": 680,
+   "posterH": 1000,
+   "imdbId": "tt0386676",
+   "tmdb": {
+    "type": "tv",
+    "id": "2316"
+   },
+   "trailer": "-DveSNTYbXU",
+   "backdrop": "https://i.ytimg.com/vi/-DveSNTYbXU/maxresdefault.jpg",
+   "pop": 83,
+   "tvmazeId": 526,
+   "network": "NBC",
+   "released": "2012-09-20",
+   "latestSeason": 9
+  },
+  {
+   "id": "s-dark",
+   "type": "show",
+   "title": "Dark",
+   "year": 2017,
+   "genres": [
+    "scifi",
+    "mystery",
+    "thriller"
+   ],
+   "moods": [
+    "mindbending",
+    "dark"
+   ],
+   "lang": "de",
+   "seasons": 3,
+   "creators": [
+    "Baran bo Odar",
+    "Jantje Friese"
+   ],
+   "cast": [
+    "Louis Hofmann",
+    "Lisa Vicari",
+    "Oliver Masucci"
+   ],
+   "synopsis": "A child's disappearance in a small German town exposes a time-travel conspiracy tangling four families across generations.",
+   "imdb": 8.7,
+   "providers": [
+    "netflix"
+   ],
+   "wiki": "Dark (TV series)",
+   "source": "seed",
+   "qid": "Q28443710",
+   "views30": 94441,
+   "imdbId": "tt5753856",
+   "tmdb": {
+    "type": "tv",
+    "id": "70523"
+   },
+   "trailer": "rrwycJ08PSA",
+   "backdrop": "https://i.ytimg.com/vi/rrwycJ08PSA/maxresdefault.jpg",
+   "pop": 80,
+   "tvmazeId": 17861,
+   "poster": "https://static.tvmaze.com/uploads/images/original_untouched/504/1262352.jpg",
+   "posterW": 680,
+   "posterH": 1000,
+   "network": "Netflix",
+   "released": "2020-06-27",
+   "latestSeason": 3
+  },
+  {
+   "id": "s-squidgame",
+   "type": "show",
+   "title": "Squid Game",
+   "year": 2021,
+   "released": "2025-06-27",
+   "genres": [
+    "thriller",
+    "drama",
+    "action"
+   ],
+   "moods": [
+    "dark",
+    "thrilling"
+   ],
+   "lang": "ko",
+   "seasons": 3,
+   "creators": [
+    "Hwang Dong-hyuk"
+   ],
+   "cast": [
+    "Lee Jung-jae",
+    "Lee Byung-hun",
+    "Wi Ha-joon"
+   ],
+   "synopsis": "Hundreds of desperate, indebted players compete in deadly versions of children's games for an enormous cash prize.",
+   "imdb": 8.0,
+   "providers": [
+    "netflix"
+   ],
+   "wiki": "Squid Game",
+   "source": "seed",
+   "qid": "Q106582931",
+   "views30": 67912,
+   "titleCard": "https://upload.wikimedia.org/wikipedia/commons/5/57/Squid_Game_2021_vector_logo_english.svg",
+   "poster": "https://static.tvmaze.com/uploads/images/original_untouched/576/1440521.jpg",
+   "posterW": 680,
+   "posterH": 1000,
+   "imdbId": "tt10919420",
+   "tmdb": {
+    "type": "tv",
+    "id": "93405"
+   },
+   "olid": "OL10030984A",
+   "trailer": "hEqk10Kbgh4",
+   "backdrop": "https://i.ytimg.com/vi/hEqk10Kbgh4/maxresdefault.jpg",
+   "pop": 77,
+   "tvmazeId": 43687,
+   "network": "Netflix",
+   "latestSeason": 3
+  },
+  {
+   "id": "s-severance",
+   "type": "show",
+   "title": "Severance",
+   "year": 2022,
+   "released": "2025-01-17",
+   "genres": [
+    "scifi",
+    "mystery",
+    "thriller",
+    "drama"
+   ],
+   "moods": [
+    "mindbending",
+    "dark"
+   ],
+   "lang": "en",
+   "seasons": 2,
+   "creators": [
+    "Dan Erickson"
+   ],
+   "cast": [
+    "Adam Scott",
+    "Britt Lower",
+    "John Turturro"
+   ],
+   "synopsis": "Office workers have their memories surgically split between work and home, until their work selves start asking questions.",
+   "imdb": 8.7,
+   "providers": [
+    "apple"
+   ],
+   "wiki": "Severance (TV series)",
+   "source": "seed",
+   "qid": "Q101096725",
+   "views30": 210640,
+   "imdbId": "tt11280740",
+   "tmdb": {
+    "type": "tv",
+    "id": "95396"
+   },
+   "trailer": "xEQP4VVuyrY",
+   "backdrop": "https://i.ytimg.com/vi/xEQP4VVuyrY/maxresdefault.jpg",
+   "pop": 85,
+   "tvmazeId": 44933,
+   "poster": "https://static.tvmaze.com/uploads/images/original_untouched/548/1371406.jpg",
+   "posterW": 680,
+   "posterH": 1000,
+   "network": "Apple TV",
+   "latestSeason": 2
+  },
+  {
+   "id": "s-thebear",
+   "type": "show",
+   "title": "The Bear",
+   "year": 2022,
+   "released": "2026-06-25",
+   "genres": [
+    "drama",
+    "comedy"
+   ],
+   "moods": [
+    "emotional",
+    "thrilling"
+   ],
+   "lang": "en",
+   "seasons": 5,
+   "creators": [
+    "Christopher Storer"
+   ],
+   "cast": [
+    "Jeremy Allen White",
+    "Ayo Edebiri",
+    "Ebon Moss-Bachrach"
+   ],
+   "synopsis": "A fine-dining chef comes home to run his late brother's chaotic Chicago sandwich shop.",
+   "imdb": 8.5,
+   "providers": [
+    "fx"
+   ],
+   "wiki": "The Bear (TV series)",
+   "source": "seed",
+   "qid": "Q112761982",
+   "views30": 165285,
+   "titleCard": "https://upload.wikimedia.org/wikipedia/commons/d/d7/The_Bear_Title_Card.jpg",
+   "poster": "https://static.tvmaze.com/uploads/images/original_untouched/629/1574642.jpg",
+   "posterW": 680,
+   "posterH": 1000,
+   "imdbId": "tt14452776",
+   "tmdb": {
+    "type": "tv",
+    "id": "136315"
+   },
+   "trailer": "gBmkI4jlaIo",
+   "backdrop": "https://i.ytimg.com/vi/gBmkI4jlaIo/maxresdefault.jpg",
+   "pop": 83,
+   "tvmazeId": 54198,
+   "network": "Hulu",
+   "latestSeason": 5
+  },
+  {
+   "id": "s-shogun",
+   "type": "show",
+   "title": "Shōgun",
+   "year": 2024,
+   "released": "2024-02-27",
+   "genres": [
+    "historical",
+    "drama",
+    "adventure"
+   ],
+   "moods": [
+    "epic",
+    "dark"
+   ],
+   "lang": "en",
+   "seasons": 1,
+   "creators": [
+    "Rachel Kondo",
+    "Justin Marks"
+   ],
+   "cast": [
+    "Hiroyuki Sanada",
+    "Cosmo Jarvis",
+    "Anna Sawai"
+   ],
+   "synopsis": "In feudal Japan, a shipwrecked English navigator becomes a pawn, then a player, in a warlord's fight for survival.",
+   "imdb": 8.6,
+   "providers": [
+    "fx"
+   ],
+   "wiki": "Shōgun (2024 TV series)",
+   "pair": "b-shogun",
+   "source": "seed",
+   "qid": "Q56276181",
+   "views30": 89747,
+   "poster": "https://static.tvmaze.com/uploads/images/original_untouched/506/1265637.jpg",
+   "posterW": 680,
+   "posterH": 1000,
+   "imdbId": "tt2788316",
+   "tmdb": {
+    "type": "tv",
+    "id": "126308"
+   },
+   "trailer": "yAN5uspO_hk",
+   "backdrop": "https://i.ytimg.com/vi/yAN5uspO_hk/maxresdefault.jpg",
+   "pop": 79,
+   "tvmazeId": 37336,
+   "network": "Hulu",
+   "latestSeason": 1
+  },
+  {
+   "id": "s-arcane",
+   "type": "show",
+   "title": "Arcane",
+   "year": 2021,
+   "released": "2024-11-09",
+   "genres": [
+    "animation",
+    "action",
+    "fantasy",
+    "scifi"
+   ],
+   "moods": [
+    "epic",
+    "emotional",
+    "dark"
+   ],
+   "lang": "en",
+   "seasons": 2,
+   "creators": [
+    "Christian Linke",
+    "Alex Yee"
+   ],
+   "cast": [
+    "Hailee Steinfeld",
+    "Ella Purnell",
+    "Kevin Alejandro"
+   ],
+   "synopsis": "Two sisters end up on opposite sides of a war between a gleaming city and the undercity beneath it.",
+   "imdb": 9.0,
+   "providers": [
+    "netflix"
+   ],
+   "wiki": "Arcane (TV series)",
+   "source": "seed",
+   "qid": "Q85518571",
+   "views30": 50732,
+   "imdbId": "tt11126994",
+   "tmdb": {
+    "type": "tv",
+    "id": "94605"
+   },
+   "trailer": "fXmAurh012s",
+   "backdrop": "https://i.ytimg.com/vi/fXmAurh012s/maxresdefault.jpg",
+   "pop": 75,
+   "tvmazeId": 55138,
+   "poster": "https://static.tvmaze.com/uploads/images/original_untouched/536/1340287.jpg",
+   "posterW": 680,
+   "posterH": 1000,
+   "network": "Netflix",
+   "latestSeason": 2
+  },
+  {
+   "id": "s-tlou",
+   "type": "show",
+   "title": "The Last of Us",
+   "year": 2023,
+   "released": "2025-04-13",
+   "genres": [
+    "drama",
+    "horror",
+    "scifi",
+    "adventure"
+   ],
+   "moods": [
+    "dark",
+    "emotional"
+   ],
+   "lang": "en",
+   "seasons": 2,
+   "creators": [
+    "Craig Mazin",
+    "Neil Druckmann"
+   ],
+   "cast": [
+    "Pedro Pascal",
+    "Bella Ramsey"
+   ],
+   "synopsis": "Twenty years into a fungal apocalypse, a hardened smuggler is hired to escort a teenage girl across a ruined America.",
+   "imdb": 8.6,
+   "providers": [
+    "hbo"
+   ],
+   "wiki": "The Last of Us (TV series)",
+   "source": "seed",
+   "qid": "Q87131973",
+   "views30": 142765,
+   "poster": "https://static.tvmaze.com/uploads/images/original_untouched/563/1409008.jpg",
+   "posterW": 680,
+   "posterH": 1000,
+   "imdbId": "tt3581920",
+   "tmdb": {
+    "type": "tv",
+    "id": "100088"
+   },
+   "trailer": "uLtkt8BonwM",
+   "backdrop": "https://i.ytimg.com/vi/uLtkt8BonwM/maxresdefault.jpg",
+   "pop": 82,
+   "tvmazeId": 46562,
+   "network": "HBO",
+   "latestSeason": 2
+  },
+  {
+   "id": "s-adolescence",
+   "type": "show",
+   "title": "Adolescence",
+   "year": 2025,
+   "released": "2025-03-13",
+   "genres": [
+    "crime",
+    "drama"
+   ],
+   "moods": [
+    "dark",
+    "emotional"
+   ],
+   "lang": "en",
+   "seasons": 1,
+   "creators": [
+    "Jack Thorne",
+    "Stephen Graham"
+   ],
+   "cast": [
+    "Stephen Graham",
+    "Owen Cooper",
+    "Erin Doherty"
+   ],
+   "synopsis": "A 13-year-old is arrested for murder, and each one-take episode digs into how it could have happened.",
+   "imdb": 8.1,
+   "providers": [
+    "netflix"
+   ],
+   "wiki": "Adolescence (TV series)",
+   "source": "seed",
+   "qid": "Q127774333",
+   "views30": 76694,
+   "poster": "https://static.tvmaze.com/uploads/images/original_untouched/558/1395109.jpg",
+   "posterW": 680,
+   "posterH": 1000,
+   "imdbId": "tt31806037",
+   "tmdb": {
+    "type": "tv",
+    "id": "249042"
+   },
+   "trailer": "Wk5OxqtpBR4",
+   "backdrop": "https://i.ytimg.com/vi/Wk5OxqtpBR4/maxresdefault.jpg",
+   "pop": 78,
+   "tvmazeId": 78570,
+   "network": "Netflix",
+   "latestSeason": 1
+  },
+  {
+   "id": "s-wednesday",
+   "type": "show",
+   "title": "Wednesday",
+   "year": 2022,
+   "released": "2025-08-06",
+   "genres": [
+    "comedy",
+    "fantasy",
+    "mystery",
+    "horror"
+   ],
+   "moods": [
+    "funny",
+    "dark"
+   ],
+   "lang": "en",
+   "seasons": 2,
+   "creators": [
+    "Alfred Gough",
+    "Miles Millar"
+   ],
+   "cast": [
+    "Jenna Ortega",
+    "Emma Myers",
+    "Catherine Zeta-Jones"
+   ],
+   "synopsis": "Wednesday Addams investigates a string of monstrous murders at Nevermore Academy with deadpan precision.",
+   "imdb": 8.0,
+   "providers": [
+    "netflix"
+   ],
+   "wiki": "Wednesday (TV series)",
+   "source": "seed",
+   "qid": "Q105553568",
+   "views30": 112412,
+   "imdbId": "tt13443470",
+   "tmdb": {
+    "type": "tv",
+    "id": "119051"
+   },
+   "trailer": "E7kKBbsSQKw",
+   "pop": 81,
+   "tvmazeId": 53647,
+   "poster": "https://static.tvmaze.com/uploads/images/original_untouched/586/1466410.jpg",
+   "posterW": 680,
+   "posterH": 1000,
+   "network": "Netflix",
+   "latestSeason": 2
+  },
+  {
+   "id": "s-panchayat",
+   "type": "show",
+   "title": "Panchayat",
+   "year": 2020,
+   "released": "2025-06-24",
+   "genres": [
+    "comedy",
+    "drama"
+   ],
+   "moods": [
+    "cozy",
+    "feelgood",
+    "funny"
+   ],
+   "lang": "hi",
+   "seasons": 4,
+   "creators": [
+    "The Viral Fever"
+   ],
+   "cast": [
+    "Jitendra Kumar",
+    "Raghubir Yadav",
+    "Neena Gupta"
+   ],
+   "synopsis": "An engineering graduate reluctantly takes a government job as secretary of a remote village council.",
+   "imdb": 9.0,
+   "providers": [
+    "prime"
+   ],
+   "wiki": "Panchayat (TV series)",
+   "source": "seed",
+   "qid": "Q96398312",
+   "views30": 37579,
+   "imdbId": "tt12004706",
+   "tmdb": {
+    "type": "tv",
+    "id": "101352"
+   },
+   "trailer": "mojZJ7oeD_g",
+   "backdrop": "https://i.ytimg.com/vi/mojZJ7oeD_g/maxresdefault.jpg",
+   "pop": 73,
+   "tvmazeId": 47014,
+   "poster": "https://static.tvmaze.com/uploads/images/original_untouched/517/1293627.jpg",
+   "posterW": 680,
+   "posterH": 1000,
+   "network": "Prime Video",
+   "latestSeason": 4
+  },
+  {
+   "id": "s-scam1992",
+   "type": "show",
+   "title": "Scam 1992: The Harshad Mehta Story",
+   "year": 2020,
+   "genres": [
+    "crime",
+    "drama",
+    "historical"
+   ],
+   "moods": [
+    "thrilling"
+   ],
+   "lang": "hi",
+   "seasons": 1,
+   "creators": [
+    "Hansal Mehta"
+   ],
+   "cast": [
+    "Pratik Gandhi",
+    "Shreya Dhanwanthary"
+   ],
+   "synopsis": "The rise and fall of the Bombay stockbroker whose market manipulation led to one of India's biggest financial scandals.",
+   "imdb": 9.2,
+   "providers": [
+    "sonyliv"
+   ],
+   "wiki": "Scam 1992",
+   "source": "seed",
+   "qid": "Q100709273",
+   "views30": 11966,
+   "poster": "https://static.tvmaze.com/uploads/images/original_untouched/521/1304758.jpg",
+   "posterW": 680,
+   "posterH": 1000,
+   "imdbId": "tt12392504",
+   "tmdb": {
+    "type": "tv",
+    "id": "111188"
+   },
+   "trailer": "ISORfez27og",
+   "backdrop": "https://i.ytimg.com/vi/ISORfez27og/maxresdefault.jpg",
+   "pop": 65,
+   "tvmazeId": 51127,
+   "network": "SonyLIV",
+   "released": "2020-10-08",
+   "latestSeason": 1
+  },
+  {
+   "id": "s-familyman",
+   "type": "show",
+   "title": "The Family Man",
+   "year": 2019,
+   "genres": [
+    "action",
+    "thriller",
+    "comedy",
+    "drama"
+   ],
+   "moods": [
+    "thrilling",
+    "funny"
+   ],
+   "lang": "hi",
+   "seasons": 3,
+   "creators": [
+    "Raj & DK"
+   ],
+   "cast": [
+    "Manoj Bajpayee",
+    "Priyamani",
+    "Sharib Hashmi"
+   ],
+   "synopsis": "A middle-class dad secretly works as an intelligence officer, juggling terror plots with parent-teacher meetings.",
+   "imdb": 8.7,
+   "providers": [
+    "prime"
+   ],
+   "wiki": "The Family Man (Indian TV series)",
+   "source": "seed",
+   "qid": "Q85807149",
+   "views30": 29326,
+   "imdbId": "tt9544034",
+   "tmdb": {
+    "type": "tv",
+    "id": "93352"
+   },
+   "trailer": "XatRGut65VI",
+   "backdrop": "https://i.ytimg.com/vi/XatRGut65VI/maxresdefault.jpg",
+   "pop": 71,
+   "tvmazeId": 43728,
+   "poster": "https://static.tvmaze.com/uploads/images/original_untouched/599/1498893.jpg",
+   "posterW": 680,
+   "posterH": 1000,
+   "network": "Prime Video",
+   "released": "2025-11-21",
+   "latestSeason": 3
+  },
+  {
+   "id": "s-fleabag",
+   "type": "show",
+   "title": "Fleabag",
+   "year": 2016,
+   "genres": [
+    "comedy",
+    "drama"
+   ],
+   "moods": [
+    "funny",
+    "emotional"
+   ],
+   "lang": "en",
+   "seasons": 2,
+   "creators": [
+    "Phoebe Waller-Bridge"
+   ],
+   "cast": [
+    "Phoebe Waller-Bridge",
+    "Sian Clifford",
+    "Andrew Scott"
+   ],
+   "synopsis": "A sharp, grieving Londoner breaks the fourth wall as she makes a mess of her love life, her family and her café.",
+   "imdb": 8.7,
+   "providers": [
+    "prime"
+   ],
+   "wiki": "Fleabag",
+   "source": "seed",
+   "qid": "Q16868648",
+   "views30": 91477,
+   "titleCard": "https://upload.wikimedia.org/wikipedia/commons/0/08/Fleabag_titlecard.png",
+   "imdbId": "tt5687612",
+   "tmdb": {
+    "type": "tv",
+    "id": "67070"
+   },
+   "trailer": "Nd3Qlo0qspU",
+   "backdrop": "https://i.ytimg.com/vi/Nd3Qlo0qspU/maxresdefault.jpg",
+   "pop": 79,
+   "tvmazeId": 16149,
+   "poster": "https://static.tvmaze.com/uploads/images/original_untouched/192/482341.jpg",
+   "posterW": 680,
+   "posterH": 1000,
+   "network": "BBC Three",
+   "released": "2019-03-04",
+   "latestSeason": 2
+  },
+  {
+   "id": "s-succession",
+   "type": "show",
+   "title": "Succession",
+   "year": 2018,
+   "genres": [
+    "drama",
+    "comedy"
+   ],
+   "moods": [
+    "dark",
+    "funny"
+   ],
+   "lang": "en",
+   "seasons": 4,
+   "creators": [
+    "Jesse Armstrong"
+   ],
+   "cast": [
+    "Brian Cox",
+    "Jeremy Strong",
+    "Sarah Snook"
+   ],
+   "synopsis": "The grown children of a media titan scheme, backstab and fail upward in the fight to take over his empire.",
+   "imdb": 8.8,
+   "providers": [
+    "hbo"
+   ],
+   "wiki": "Succession (TV series)",
+   "source": "seed",
+   "qid": "Q30599007",
+   "views30": 143226,
+   "poster": "https://static.tvmaze.com/uploads/images/original_untouched/453/1134275.jpg",
+   "posterW": 680,
+   "posterH": 1000,
+   "imdbId": "tt7660850",
+   "tmdb": {
+    "type": "tv",
+    "id": "76331"
+   },
+   "trailer": "OzYxJV_rmE8",
+   "backdrop": "https://i.ytimg.com/vi/OzYxJV_rmE8/maxresdefault.jpg",
+   "pop": 82,
+   "tvmazeId": 23470,
+   "network": "HBO",
+   "released": "2023-03-26",
+   "latestSeason": 4
+  },
+  {
+   "id": "s-whitelotus",
+   "type": "show",
+   "title": "The White Lotus",
+   "year": 2021,
+   "released": "2025-02-16",
+   "genres": [
+    "comedy",
+    "drama",
+    "mystery"
+   ],
+   "moods": [
+    "dark",
+    "funny"
+   ],
+   "lang": "en",
+   "seasons": 3,
+   "creators": [
+    "Mike White"
+   ],
+   "cast": [
+    "Jennifer Coolidge",
+    "Natasha Rothwell",
+    "Walton Goggins"
+   ],
+   "synopsis": "Wealthy guests and stretched-thin staff at a luxury resort unravel over one week, and someone won't leave alive.",
+   "imdb": 8.0,
+   "providers": [
+    "hbo"
+   ],
+   "wiki": "The White Lotus",
+   "source": "seed",
+   "qid": "Q106679014",
+   "views30": 183656,
+   "poster": "https://static.tvmaze.com/uploads/images/original_untouched/557/1393876.jpg",
+   "posterW": 680,
+   "posterH": 1000,
+   "imdbId": "tt13406094",
+   "tmdb": {
+    "type": "tv",
+    "id": "111803"
+   },
+   "trailer": "TGLq7_MonZ4",
+   "backdrop": "https://i.ytimg.com/vi/TGLq7_MonZ4/maxresdefault.jpg",
+   "pop": 84,
+   "tvmazeId": 51394,
+   "network": "HBO",
+   "latestSeason": 3
+  },
+  {
+   "id": "s-normalpeople",
+   "type": "show",
+   "title": "Normal People",
+   "year": 2020,
+   "genres": [
+    "romance",
+    "drama"
+   ],
+   "moods": [
+    "emotional"
+   ],
+   "lang": "en",
+   "seasons": 1,
+   "creators": [
+    "Lenny Abrahamson",
+    "Hettie Macdonald"
+   ],
+   "cast": [
+    "Daisy Edgar-Jones",
+    "Paul Mescal"
+   ],
+   "synopsis": "Two teenagers from an Irish town drift together and apart through school and university.",
+   "imdb": 8.4,
+   "providers": [],
+   "wiki": "Normal People (TV series)",
+   "pair": "b-normalpeople",
+   "source": "seed",
+   "qid": "Q81672757",
+   "views30": 57776,
+   "imdbId": "tt9059760",
+   "tmdb": {
+    "type": "tv",
+    "id": "89905"
+   },
+   "trailer": "x1JQuWxt3cE",
+   "backdrop": "https://i.ytimg.com/vi/x1JQuWxt3cE/maxresdefault.jpg",
+   "pop": 76,
+   "tvmazeId": 42361,
+   "poster": "https://static.tvmaze.com/uploads/images/original_untouched/249/623354.jpg",
+   "posterW": 680,
+   "posterH": 1000,
+   "network": "BBC Three",
+   "released": "2020-04-26",
+   "latestSeason": 1
+  },
+  {
+   "id": "s-pluribus",
+   "type": "show",
+   "title": "Pluribus",
+   "year": 2025,
+   "released": "2025-11-07",
+   "genres": [
+    "scifi",
+    "drama"
+   ],
+   "moods": [
+    "mindbending",
+    "dark"
+   ],
+   "lang": "en",
+   "seasons": 1,
+   "creators": [
+    "Vince Gilligan"
+   ],
+   "cast": [
+    "Rhea Seehorn"
+   ],
+   "synopsis": "The most miserable person on Earth must save the world from happiness, from the creator of Breaking Bad.",
+   "imdb": null,
+   "providers": [
+    "apple"
+   ],
+   "wiki": "Pluribus (TV series)",
+   "source": "seed",
+   "qid": "Q122155720",
+   "views30": 331521,
+   "imdbId": "tt22202452",
+   "tmdb": {
+    "type": "tv",
+    "id": "225171"
+   },
+   "trailer": "a6lzvWby9UE",
+   "backdrop": "https://i.ytimg.com/vi/a6lzvWby9UE/maxresdefault.jpg",
+   "pop": 88,
+   "tvmazeId": 86175,
+   "poster": "https://static.tvmaze.com/uploads/images/original_untouched/592/1481086.jpg",
+   "posterW": 680,
+   "posterH": 1000,
+   "network": "Apple TV",
+   "latestSeason": 1
+  },
+  {
+   "id": "s-thestudio",
+   "type": "show",
+   "title": "The Studio",
+   "year": 2025,
+   "released": "2025-03-26",
+   "genres": [
+    "comedy"
+   ],
+   "moods": [
+    "funny"
+   ],
+   "lang": "en",
+   "seasons": 1,
+   "creators": [
+    "Seth Rogen",
+    "Evan Goldberg"
+   ],
+   "cast": [
+    "Seth Rogen",
+    "Catherine O'Hara",
+    "Ike Barinholtz"
+   ],
+   "synopsis": "A film-loving new head of a Hollywood studio tries to make good movies while keeping his corporate bosses happy.",
+   "imdb": null,
+   "providers": [
+    "apple"
+   ],
+   "wiki": "The Studio (TV series)",
+   "source": "seed",
+   "qid": "Q125185497",
+   "views30": 52388,
+   "imdbId": "tt23649128",
+   "tmdb": {
+    "type": "tv",
+    "id": "247767"
+   },
+   "trailer": "EIQuE7JGXU8",
+   "backdrop": "https://i.ytimg.com/vi/EIQuE7JGXU8/maxresdefault.jpg",
+   "pop": 76,
+   "tvmazeId": 75605,
+   "poster": "https://static.tvmaze.com/uploads/images/original_untouched/569/1424520.jpg",
+   "posterW": 680,
+   "posterH": 1000,
+   "network": "Apple TV",
+   "latestSeason": 1
+  },
+  {
+   "id": "s-andor",
+   "type": "show",
+   "title": "Andor",
+   "year": 2022,
+   "released": "2025-04-22",
+   "genres": [
+    "scifi",
+    "drama",
+    "action",
+    "thriller"
+   ],
+   "moods": [
+    "dark",
+    "epic",
+    "thrilling"
+   ],
+   "lang": "en",
+   "seasons": 2,
+   "creators": [
+    "Tony Gilroy"
+   ],
+   "cast": [
+    "Diego Luna",
+    "Stellan Skarsgård",
+    "Genevieve O'Reilly"
+   ],
+   "synopsis": "A thief with nothing to lose is drawn into the early, desperate days of the Rebellion against the Empire.",
+   "imdb": 8.6,
+   "providers": [
+    "disney"
+   ],
+   "wiki": "Andor (TV series)",
+   "source": "seed",
+   "qid": "Q60462338",
+   "views30": 95094,
+   "titleCard": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Andor.svg",
+   "imdbId": "tt9253284",
+   "tmdb": {
+    "type": "tv",
+    "id": "83867"
+   },
+   "trailer": "cKOegEuCcfw",
+   "backdrop": "https://i.ytimg.com/vi/cKOegEuCcfw/maxresdefault.jpg",
+   "pop": 80,
+   "tvmazeId": 52341,
+   "poster": "https://static.tvmaze.com/uploads/images/original_untouched/564/1411766.jpg",
+   "posterW": 680,
+   "posterH": 1000,
+   "network": "Disney+",
+   "latestSeason": 2
+  },
+  {
+   "id": "s-fallout",
+   "type": "show",
+   "title": "Fallout",
+   "year": 2024,
+   "released": "2025-12-17",
+   "genres": [
+    "scifi",
+    "action",
+    "comedy",
+    "drama"
+   ],
+   "moods": [
+    "funny",
+    "dark",
+    "epic"
+   ],
+   "lang": "en",
+   "seasons": 2,
+   "creators": [
+    "Graham Wagner",
+    "Geneva Robertson-Dworet"
+   ],
+   "cast": [
+    "Ella Purnell",
+    "Walton Goggins",
+    "Aaron Moten"
+   ],
+   "synopsis": "Two centuries after the bombs, a sheltered vault dweller ventures onto the irradiated, absurd surface of Los Angeles.",
+   "imdb": 8.3,
+   "providers": [
+    "prime"
+   ],
+   "wiki": "Fallout (American TV series)",
+   "source": "seed",
+   "qid": "Q113127312",
+   "views30": 86202,
+   "titleCard": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Fallout_television_series_logo.svg",
+   "poster": "https://static.tvmaze.com/uploads/images/original_untouched/599/1499142.jpg",
+   "posterW": 680,
+   "posterH": 1000,
+   "imdbId": "tt12637874",
+   "tmdb": {
+    "type": "tv",
+    "id": "106379"
+   },
+   "trailer": "7h8zJHywjAw",
+   "backdrop": "https://i.ytimg.com/vi/7h8zJHywjAw/maxresdefault.jpg",
+   "pop": 79,
+   "tvmazeId": 49041,
+   "network": "Prime Video",
+   "latestSeason": 2
+  },
+  {
+   "id": "s-thepitt",
+   "type": "show",
+   "title": "The Pitt",
+   "year": 2025,
+   "released": "2026-01-08",
+   "genres": [
+    "drama"
+   ],
+   "moods": [
+    "thrilling",
+    "emotional"
+   ],
+   "lang": "en",
+   "seasons": 2,
+   "creators": [
+    "R. Scott Gemmill"
+   ],
+   "cast": [
+    "Noah Wyle",
+    "Tracy Ifeachor",
+    "Patrick Ball"
+   ],
+   "synopsis": "Each episode is one hour of a single brutal shift in a Pittsburgh emergency room.",
+   "imdb": 8.9,
+   "providers": [
+    "hbo"
+   ],
+   "wiki": "The Pitt",
+   "source": "seed",
+   "qid": "Q131431817",
+   "views30": 308393,
+   "titleCard": "https://upload.wikimedia.org/wikipedia/commons/0/03/The_Pitt_Max_series_logo.svg",
+   "imdbId": "tt31938062",
+   "tmdb": {
+    "type": "tv",
+    "id": "250307"
+   },
+   "trailer": "ufR_08V38sQ",
+   "backdrop": "https://i.ytimg.com/vi/ufR_08V38sQ/maxresdefault.jpg",
+   "pop": 88,
+   "tvmazeId": 75632,
+   "poster": "https://static.tvmaze.com/uploads/images/original_untouched/606/1516776.jpg",
+   "posterW": 680,
+   "posterH": 1000,
+   "network": "HBO Max",
+   "latestSeason": 2
+  },
+  {
+   "id": "s-sherlock",
+   "type": "show",
+   "title": "Sherlock",
+   "year": 2010,
+   "genres": [
+    "mystery",
+    "crime",
+    "drama"
+   ],
+   "moods": [
+    "thrilling",
+    "mindbending"
+   ],
+   "lang": "en",
+   "seasons": 4,
+   "creators": [
+    "Steven Moffat",
+    "Mark Gatiss"
+   ],
+   "cast": [
+    "Benedict Cumberbatch",
+    "Martin Freeman"
+   ],
+   "synopsis": "Sherlock Holmes and Dr. Watson solve crimes in modern-day London, armed with smartphones and sharp tongues.",
+   "imdb": 9.0,
+   "providers": [],
+   "wiki": "Sherlock (TV series)",
+   "source": "seed",
+   "qid": "Q192837",
+   "views30": 62756,
+   "titleCard": "https://upload.wikimedia.org/wikipedia/en/4/4d/Sherlock_titlecard.jpg",
+   "imdbId": "tt1475582",
+   "tmdb": {
+    "type": "tv",
+    "id": "19885"
+   },
+   "trailer": "y9ZouUyPKx8",
+   "backdrop": "https://i.ytimg.com/vi/y9ZouUyPKx8/maxresdefault.jpg",
+   "pop": 77,
+   "tvmazeId": 335,
+   "poster": "https://static.tvmaze.com/uploads/images/original_untouched/171/428042.jpg",
+   "posterW": 680,
+   "posterH": 1000,
+   "network": "BBC One",
+   "released": "2016-01-01",
+   "latestSeason": 4
+  },
+  {
+   "id": "b-dune",
+   "type": "book",
+   "title": "Dune",
+   "year": 1965,
+   "genres": [
+    "scifi",
+    "adventure",
+    "classic"
+   ],
+   "moods": [
+    "epic",
+    "mindbending"
+   ],
+   "lang": "en",
+   "pages": 617,
+   "creators": [
+    "Frank Herbert"
+   ],
+   "synopsis": "On the desert planet Arrakis, the heir of a betrayed noble house becomes the center of a prophecy, and a war over the most valuable substance in the universe.",
+   "providers": [],
+   "wiki": "Dune (novel)",
+   "authorWiki": "Frank Herbert",
+   "pair": "m-dune2",
+   "source": "seed",
+   "qid": "Q190192",
+   "views30": 82191,
+   "poster": "https://upload.wikimedia.org/wikipedia/commons/b/be/Dune_by_Frank_Herbert_first_edition_cover.jpg",
+   "posterW": 773,
+   "posterH": 1147,
+   "olid": "OL893527W",
+   "cover": "https://covers.openlibrary.org/b/id/11481354-L.jpg",
+   "olRating": 4.3,
+   "olCount": 448,
+   "pop": 79
+  },
+  {
+   "id": "b-phm",
+   "type": "book",
+   "title": "Project Hail Mary",
+   "year": 2021,
+   "genres": [
+    "scifi",
+    "adventure"
+   ],
+   "moods": [
+    "feelgood",
+    "emotional",
+    "funny"
+   ],
+   "lang": "en",
+   "pages": 476,
+   "creators": [
+    "Andy Weir"
+   ],
+   "synopsis": "An amnesiac astronaut pieces together why he's alone on a desperate mission, and finds an unexpected friend among the stars.",
+   "providers": [],
+   "wiki": "Project Hail Mary",
+   "authorWiki": "Andy Weir",
+   "pair": "m-phm",
+   "source": "seed",
+   "qid": "Q106852836",
+   "views30": 122041,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/a/ad/Project_Hail_Mary%2C_First_Edition_Cover_%282021%29.jpg",
+   "posterW": 257,
+   "posterH": 388,
+   "olid": "OL21745884W",
+   "cover": "https://covers.openlibrary.org/b/id/11200092-L.jpg",
+   "olRating": 4.52,
+   "olCount": 184,
+   "pop": 81
+  },
+  {
+   "id": "b-martian",
+   "type": "book",
+   "title": "The Martian",
+   "year": 2011,
+   "genres": [
+    "scifi",
+    "adventure"
+   ],
+   "moods": [
+    "funny",
+    "thrilling"
+   ],
+   "lang": "en",
+   "pages": 369,
+   "creators": [
+    "Andy Weir"
+   ],
+   "synopsis": "An astronaut left behind on Mars logs his sarcastic, ingenious fight to stay alive.",
+   "providers": [],
+   "wiki": "The Martian (Weir novel)",
+   "authorWiki": "Andy Weir",
+   "pair": "m-martian",
+   "source": "seed",
+   "qid": "Q17111624",
+   "views30": 16704,
+   "poster": "https://upload.wikimedia.org/wikipedia/commons/7/71/The_Martian_%28Weir_novel%29.jpg",
+   "posterW": 407,
+   "posterH": 600,
+   "olid": "OL32815550M",
+   "cover": "https://covers.openlibrary.org/b/id/11447888-L.jpg",
+   "olRating": 4.4,
+   "olCount": 337,
+   "pop": 68
+  },
+  {
+   "id": "b-hobbit",
+   "type": "book",
+   "title": "The Hobbit",
+   "year": 1937,
+   "genres": [
+    "fantasy",
+    "adventure",
+    "classic"
+   ],
+   "moods": [
+    "cozy",
+    "epic"
+   ],
+   "lang": "en",
+   "pages": 310,
+   "creators": [
+    "J. R. R. Tolkien"
+   ],
+   "synopsis": "Bilbo Baggins is hustled out of his comfortable hole by a wizard and thirteen dwarves to help steal back treasure from a dragon.",
+   "providers": [],
+   "wiki": "The Hobbit",
+   "authorWiki": "J. R. R. Tolkien",
+   "pair": "m-lotr1",
+   "source": "seed",
+   "qid": "Q74287",
+   "views30": 60549,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/4/4a/TheHobbit_FirstEdition.jpg",
+   "posterW": 282,
+   "posterH": 353,
+   "olid": "OL27482W",
+   "cover": "https://covers.openlibrary.org/b/id/14627509-L.jpg",
+   "olRating": 4.29,
+   "olCount": 500,
+   "pop": 77
+  },
+  {
+   "id": "b-hp1",
+   "type": "book",
+   "title": "Harry Potter and the Philosopher's Stone",
+   "year": 1997,
+   "genres": [
+    "fantasy",
+    "ya",
+    "family"
+   ],
+   "moods": [
+    "cozy",
+    "feelgood"
+   ],
+   "lang": "en",
+   "pages": 223,
+   "creators": [
+    "J. K. Rowling"
+   ],
+   "synopsis": "A neglected boy discovers he's a famous wizard and begins his first year at Hogwarts School of Witchcraft and Wizardry.",
+   "providers": [],
+   "wiki": "Harry Potter and the Philosopher's Stone",
+   "authorWiki": "J. K. Rowling",
+   "pair": "m-hp1",
+   "source": "seed",
+   "qid": "Q43361",
+   "views30": 52706,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/6/6b/Harry_Potter_and_the_Philosopher%27s_Stone_Book_Cover.jpg",
+   "posterW": 253,
+   "posterH": 394,
+   "olid": "OL82563W",
+   "cover": "https://covers.openlibrary.org/b/id/15155833-L.jpg",
+   "olRating": 4.22,
+   "olCount": 1047,
+   "pop": 76
+  },
+  {
+   "id": "b-1984",
+   "type": "book",
+   "title": "Nineteen Eighty-Four",
+   "year": 1949,
+   "genres": [
+    "scifi",
+    "classic",
+    "literary"
+   ],
+   "moods": [
+    "dark",
+    "mindbending"
+   ],
+   "lang": "en",
+   "pages": 328,
+   "creators": [
+    "George Orwell"
+   ],
+   "synopsis": "Under a regime that watches everything and rewrites history, one man risks it all on a forbidden love and a private rebellion.",
+   "providers": [],
+   "wiki": "Nineteen Eighty-Four",
+   "authorWiki": "George Orwell",
+   "source": "seed",
+   "qid": "Q208460",
+   "views30": 134736,
+   "poster": "https://upload.wikimedia.org/wikipedia/commons/5/51/1984_first_edition_cover.jpg",
+   "posterW": 220,
+   "posterH": 327,
+   "olid": "OL1168083W",
+   "cover": "https://covers.openlibrary.org/b/id/9267242-L.jpg",
+   "olRating": 4.28,
+   "olCount": 436,
+   "pop": 82
+  },
+  {
+   "id": "b-mockingbird",
+   "type": "book",
+   "title": "To Kill a Mockingbird",
+   "year": 1960,
+   "genres": [
+    "classic",
+    "literary",
+    "historical"
+   ],
+   "moods": [
+    "emotional"
+   ],
+   "lang": "en",
+   "pages": 281,
+   "creators": [
+    "Harper Lee"
+   ],
+   "synopsis": "In Depression-era Alabama, Scout Finch watches her father defend a Black man falsely accused of a crime.",
+   "providers": [],
+   "wiki": "To Kill a Mockingbird",
+   "authorWiki": "Harper Lee",
+   "source": "seed",
+   "qid": "Q212340",
+   "views30": 79739,
+   "poster": "https://upload.wikimedia.org/wikipedia/commons/4/4f/To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg",
+   "posterW": 1427,
+   "posterH": 1764,
+   "olid": "OL3140834W",
+   "cover": "https://covers.openlibrary.org/b/id/14351077-L.jpg",
+   "olRating": 4.13,
+   "olCount": 273,
+   "pop": 78
+  },
+  {
+   "id": "b-pride",
+   "type": "book",
+   "title": "Pride and Prejudice",
+   "year": 1813,
+   "genres": [
+    "romance",
+    "classic"
+   ],
+   "moods": [
+    "cozy",
+    "funny"
+   ],
+   "lang": "en",
+   "pages": 279,
+   "creators": [
+    "Jane Austen"
+   ],
+   "synopsis": "Quick-witted Elizabeth Bennet and the proud Mr. Darcy misjudge each other spectacularly in Regency England.",
+   "providers": [],
+   "wiki": "Pride and Prejudice",
+   "authorWiki": "Jane Austen",
+   "source": "seed",
+   "qid": "Q170583",
+   "views30": 106027,
+   "poster": "https://upload.wikimedia.org/wikipedia/commons/1/17/PrideAndPrejudiceTitlePage.jpg",
+   "posterW": 1867,
+   "posterH": 3016,
+   "olid": "OL66554W",
+   "cover": "https://covers.openlibrary.org/b/id/14348537-L.jpg",
+   "olRating": 4.21,
+   "olCount": 409,
+   "pop": 80
+  },
+  {
+   "id": "b-gatsby",
+   "type": "book",
+   "title": "The Great Gatsby",
+   "year": 1925,
+   "genres": [
+    "classic",
+    "literary",
+    "romance"
+   ],
+   "moods": [
+    "emotional",
+    "dark"
+   ],
+   "lang": "en",
+   "pages": 180,
+   "creators": [
+    "F. Scott Fitzgerald"
+   ],
+   "synopsis": "A mysterious millionaire throws lavish Long Island parties in hopes of winning back the woman he lost.",
+   "providers": [],
+   "wiki": "The Great Gatsby",
+   "authorWiki": "F. Scott Fitzgerald",
+   "source": "seed",
+   "qid": "Q214371",
+   "views30": 82569,
+   "poster": "https://upload.wikimedia.org/wikipedia/commons/7/7a/The_Great_Gatsby_Cover_1925_Retouched.jpg",
+   "posterW": 1129,
+   "posterH": 1600,
+   "olid": "OL3871697W",
+   "cover": "https://covers.openlibrary.org/b/id/10590366-L.jpg",
+   "olRating": 3.99,
+   "olCount": 252,
+   "pop": 79
+  },
+  {
+   "id": "b-midnightlibrary",
+   "type": "book",
+   "title": "The Midnight Library",
+   "year": 2020,
+   "genres": [
+    "literary",
+    "fantasy"
+   ],
+   "moods": [
+    "emotional",
+    "feelgood",
+    "mindbending"
+   ],
+   "lang": "en",
+   "pages": 288,
+   "creators": [
+    "Matt Haig"
+   ],
+   "synopsis": "Between life and death, Nora finds a library where every book is a version of the life she could have lived.",
+   "providers": [],
+   "wiki": "The Midnight Library",
+   "authorWiki": "Matt Haig",
+   "source": "seed",
+   "qid": "Q106814534",
+   "views30": 41115,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/8/87/The_Midnight_Library.jpg",
+   "posterW": 270,
+   "posterH": 380,
+   "olid": "OL32532668M",
+   "cover": "https://covers.openlibrary.org/b/id/10313767-L.jpg",
+   "olRating": 4.03,
+   "olCount": 86,
+   "pop": 74
+  },
+  {
+   "id": "b-silentpatient",
+   "type": "book",
+   "title": "The Silent Patient",
+   "year": 2019,
+   "genres": [
+    "thriller",
+    "mystery"
+   ],
+   "moods": [
+    "dark",
+    "mindbending",
+    "thrilling"
+   ],
+   "lang": "en",
+   "pages": 336,
+   "creators": [
+    "Alex Michaelides"
+   ],
+   "synopsis": "A painter shoots her husband and never speaks again; a psychotherapist becomes obsessed with making her talk.",
+   "providers": [],
+   "wiki": "The Silent Patient",
+   "authorWiki": "Alex Michaelides",
+   "source": "seed",
+   "qid": "Q97516163",
+   "views30": 33948,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/d/df/The_Silent_Patient_early_2019_UK_edition.png",
+   "posterW": 260,
+   "posterH": 388,
+   "olid": "OL19096402W",
+   "cover": "https://covers.openlibrary.org/b/id/9407338-L.jpg",
+   "olRating": 4.05,
+   "olCount": 209,
+   "pop": 72
+  },
+  {
+   "id": "b-gonegirl",
+   "type": "book",
+   "title": "Gone Girl",
+   "year": 2012,
+   "genres": [
+    "thriller",
+    "mystery"
+   ],
+   "moods": [
+    "dark",
+    "mindbending"
+   ],
+   "lang": "en",
+   "pages": 432,
+   "creators": [
+    "Gillian Flynn"
+   ],
+   "synopsis": "Told by husband and wife in turns, the story of a marriage that becomes a crime scene, and a narrator you shouldn't trust.",
+   "providers": [],
+   "wiki": "Gone Girl (novel)",
+   "authorWiki": "Gillian Flynn",
+   "pair": "m-gonegirl",
+   "source": "seed",
+   "qid": "Q5581570",
+   "views30": 18194,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/7/7e/Gone_Girl_%28Flynn_novel%29.jpg",
+   "posterW": 258,
+   "posterH": 387,
+   "olid": "OL35889560M",
+   "cover": "https://covers.openlibrary.org/b/id/8368314-L.jpg",
+   "olRating": 3.78,
+   "olCount": 76,
+   "pop": 68
+  },
+  {
+   "id": "b-evelynhugo",
+   "type": "book",
+   "title": "The Seven Husbands of Evelyn Hugo",
+   "year": 2017,
+   "genres": [
+    "romance",
+    "historical",
+    "literary"
+   ],
+   "moods": [
+    "emotional"
+   ],
+   "lang": "en",
+   "pages": 400,
+   "creators": [
+    "Taylor Jenkins Reid"
+   ],
+   "synopsis": "A reclusive Hollywood icon finally tells the truth about her glamorous, scandalous life, and the love she hid.",
+   "providers": [],
+   "wiki": "The Seven Husbands of Evelyn Hugo",
+   "authorWiki": "Taylor Jenkins Reid",
+   "source": "seed",
+   "qid": "Q54488337",
+   "views30": 31128,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/1/17/The_Seven_Husbands_of_Evelyn_Hugo.jpg",
+   "posterW": 260,
+   "posterH": 390,
+   "olid": "OL18203673W",
+   "cover": "https://covers.openlibrary.org/b/id/8354226-L.jpg",
+   "olRating": 4.13,
+   "olCount": 189,
+   "pop": 72
+  },
+  {
+   "id": "b-fourthwing",
+   "type": "book",
+   "title": "Fourth Wing",
+   "year": 2023,
+   "genres": [
+    "fantasy",
+    "romance"
+   ],
+   "moods": [
+    "epic",
+    "thrilling"
+   ],
+   "lang": "en",
+   "pages": 512,
+   "creators": [
+    "Rebecca Yarros"
+   ],
+   "synopsis": "A fragile scribe is forced into a brutal war college for dragon riders, where bonding a dragon is only the first way to die.",
+   "providers": [],
+   "wiki": "Fourth Wing",
+   "authorWiki": "Rebecca Yarros",
+   "source": "seed",
+   "qid": "Q120798796",
+   "views30": 97209,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/d/dd/Fourth_Wing_Cover_Art.jpeg",
+   "posterW": 258,
+   "posterH": 387,
+   "olid": "OL29226517W",
+   "cover": "https://covers.openlibrary.org/b/id/14407898-L.jpg",
+   "olRating": 4.24,
+   "olCount": 107,
+   "pop": 80
+  },
+  {
+   "id": "b-onyxstorm",
+   "type": "book",
+   "title": "Onyx Storm",
+   "year": 2025,
+   "released": "2025-01-21",
+   "genres": [
+    "fantasy",
+    "romance"
+   ],
+   "moods": [
+    "epic",
+    "thrilling"
+   ],
+   "lang": "en",
+   "pages": 544,
+   "creators": [
+    "Rebecca Yarros"
+   ],
+   "synopsis": "The third Empyrean novel sends Violet beyond her kingdom's borders to find allies before the war arrives at the gates.",
+   "providers": [],
+   "wiki": "Onyx Storm",
+   "authorWiki": "Rebecca Yarros",
+   "source": "seed",
+   "qid": "Q130681191",
+   "views30": 28720,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/9/9d/Onyx_Storm_cover.jpg",
+   "posterW": 258,
+   "posterH": 387,
+   "olid": "OL41943074W",
+   "cover": "https://covers.openlibrary.org/b/id/14826089-L.jpg",
+   "olRating": 4.4,
+   "olCount": 35,
+   "pop": 71
+  },
+  {
+   "id": "b-nameofthewind",
+   "type": "book",
+   "title": "The Name of the Wind",
+   "year": 2007,
+   "genres": [
+    "fantasy",
+    "adventure"
+   ],
+   "moods": [
+    "epic",
+    "cozy"
+   ],
+   "lang": "en",
+   "pages": 662,
+   "creators": [
+    "Patrick Rothfuss"
+   ],
+   "synopsis": "A legendary innkeeper tells the true story of how he became the most notorious wizard of his age.",
+   "providers": [],
+   "wiki": "The Name of the Wind",
+   "authorWiki": "Patrick Rothfuss",
+   "source": "seed",
+   "qid": "Q1195989",
+   "views30": 20301,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/5/56/TheNameoftheWind_cover.jpg",
+   "posterW": 258,
+   "posterH": 387,
+   "olid": "OL9772092W",
+   "cover": "https://covers.openlibrary.org/b/id/11480483-L.jpg",
+   "olRating": 4.34,
+   "olCount": 255,
+   "pop": 69
+  },
+  {
+   "id": "b-mistborn",
+   "type": "book",
+   "title": "Mistborn: The Final Empire",
+   "year": 2006,
+   "genres": [
+    "fantasy",
+    "adventure"
+   ],
+   "moods": [
+    "epic",
+    "thrilling"
+   ],
+   "lang": "en",
+   "pages": 541,
+   "creators": [
+    "Brandon Sanderson"
+   ],
+   "synopsis": "A street thief with a rare magic joins a crew planning the ultimate heist: overthrowing an immortal emperor.",
+   "providers": [],
+   "wiki": "Mistborn: The Final Empire",
+   "authorWiki": "Brandon Sanderson",
+   "source": "seed",
+   "qid": "Q2778373",
+   "views30": 13215,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/4/44/Mistborn-cover.jpg",
+   "posterW": 256,
+   "posterH": 389,
+   "olid": "OL5738148W",
+   "olRating": 4.0,
+   "olCount": 1,
+   "pop": 66
+  },
+  {
+   "id": "b-hungergames",
+   "type": "book",
+   "title": "The Hunger Games",
+   "year": 2008,
+   "genres": [
+    "ya",
+    "scifi",
+    "adventure"
+   ],
+   "moods": [
+    "thrilling",
+    "dark"
+   ],
+   "lang": "en",
+   "pages": 374,
+   "creators": [
+    "Suzanne Collins"
+   ],
+   "synopsis": "Katniss volunteers in her sister's place for a televised fight to the death, and becomes a symbol she never asked to be.",
+   "providers": [],
+   "wiki": "The Hunger Games",
+   "authorWiki": "Suzanne Collins",
+   "source": "seed",
+   "qid": "Q11679",
+   "views30": 119527,
+   "olid": "OL5735363W",
+   "cover": "https://covers.openlibrary.org/b/id/12646537-L.jpg",
+   "olRating": 4.12,
+   "olCount": 562,
+   "pop": 81
+  },
+  {
+   "id": "b-sunrise",
+   "type": "book",
+   "title": "Sunrise on the Reaping",
+   "year": 2025,
+   "released": "2025-03-18",
+   "genres": [
+    "ya",
+    "scifi"
+   ],
+   "moods": [
+    "dark",
+    "thrilling",
+    "emotional"
+   ],
+   "lang": "en",
+   "pages": 382,
+   "creators": [
+    "Suzanne Collins"
+   ],
+   "synopsis": "A Hunger Games prequel following a young Haymitch Abernathy into the brutal 50th Games.",
+   "providers": [],
+   "wiki": "Sunrise on the Reaping",
+   "authorWiki": "Suzanne Collins",
+   "source": "seed",
+   "qid": "Q126390804",
+   "views30": 124401,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/2/20/Sunrise_on_the_Reaping_book_cover.jpg",
+   "posterW": 258,
+   "posterH": 387,
+   "olid": "OL42360848W",
+   "cover": "https://covers.openlibrary.org/b/id/14847912-L.jpg",
+   "olRating": 4.62,
+   "olCount": 26,
+   "pop": 82
+  },
+  {
+   "id": "b-tomorrow",
+   "type": "book",
+   "title": "Tomorrow, and Tomorrow, and Tomorrow",
+   "year": 2022,
+   "genres": [
+    "literary"
+   ],
+   "moods": [
+    "emotional"
+   ],
+   "lang": "en",
+   "pages": 416,
+   "creators": [
+    "Gabrielle Zevin"
+   ],
+   "synopsis": "Two childhood friends become video game designers, and their decades-long creative partnership is complicated by love and loss.",
+   "providers": [],
+   "wiki": "Tomorrow, and Tomorrow, and Tomorrow (novel)",
+   "authorWiki": "Gabrielle Zevin",
+   "source": "seed",
+   "qid": "Q115818209",
+   "views30": 22812,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/c/c4/Tomorrow%2C_and_Tomorrow%2C_and_Tomorrow.jpg",
+   "posterW": 256,
+   "posterH": 390,
+   "olid": "OL26004554W",
+   "cover": "https://covers.openlibrary.org/b/id/12859975-L.jpg",
+   "olRating": 4.23,
+   "olCount": 26,
+   "pop": 70
+  },
+  {
+   "id": "b-achilles",
+   "type": "book",
+   "title": "The Song of Achilles",
+   "year": 2011,
+   "genres": [
+    "fantasy",
+    "historical",
+    "romance"
+   ],
+   "moods": [
+    "emotional",
+    "epic"
+   ],
+   "lang": "en",
+   "pages": 378,
+   "creators": [
+    "Madeline Miller"
+   ],
+   "synopsis": "The Trojan War retold through Patroclus, an exiled prince whose bond with Achilles turns into an epic love story.",
+   "providers": [],
+   "wiki": "The Song of Achilles",
+   "authorWiki": "Madeline Miller",
+   "source": "seed",
+   "qid": "Q21189971",
+   "views30": 28959,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/1/1e/TheSongofAchilles.png",
+   "posterW": 252,
+   "posterH": 380,
+   "olid": "OL16509148W",
+   "cover": "https://covers.openlibrary.org/b/id/7098465-L.jpg",
+   "olRating": 4.29,
+   "olCount": 139,
+   "pop": 71
+  },
+  {
+   "id": "b-sapiens",
+   "type": "book",
+   "title": "Sapiens: A Brief History of Humankind",
+   "year": 2011,
+   "genres": [
+    "nonfiction",
+    "historical"
+   ],
+   "moods": [
+    "mindbending"
+   ],
+   "lang": "en",
+   "pages": 443,
+   "creators": [
+    "Yuval Noah Harari"
+   ],
+   "synopsis": "A sweeping look at how one species of ape came to dominate the planet through shared stories, farming, money and empire.",
+   "providers": [],
+   "wiki": "Sapiens: A Brief History of Humankind",
+   "authorWiki": "Yuval Noah Harari",
+   "source": "seed",
+   "qid": "Q12411055",
+   "views30": 24384,
+   "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Sapiens-_A_Brief_History_of_Humankind.png",
+   "posterW": 1280,
+   "posterH": 1924,
+   "olid": "OL17628800W",
+   "pop": 70
+  },
+  {
+   "id": "b-atomichabits",
+   "type": "book",
+   "title": "Atomic Habits",
+   "year": 2018,
+   "genres": [
+    "selfhelp",
+    "nonfiction"
+   ],
+   "moods": [
+    "feelgood"
+   ],
+   "lang": "en",
+   "pages": 320,
+   "creators": [
+    "James Clear"
+   ],
+   "synopsis": "A practical guide to building good habits and breaking bad ones through tiny, compounding changes.",
+   "providers": [],
+   "wiki": "Atomic Habits",
+   "authorWiki": "James Clear",
+   "source": "seed",
+   "qid": "Q98178602",
+   "views30": 11208,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/2/28/Atomic_Habits_book_cover.jpg",
+   "posterW": 257,
+   "posterH": 388,
+   "olid": "OL17930368W",
+   "cover": "https://covers.openlibrary.org/b/id/12539702-L.jpg",
+   "olRating": 3.97,
+   "olCount": 1450,
+   "pop": 65
+  },
+  {
+   "id": "b-godofsmallthings",
+   "type": "book",
+   "title": "The God of Small Things",
+   "year": 1997,
+   "genres": [
+    "literary"
+   ],
+   "moods": [
+    "emotional",
+    "dark"
+   ],
+   "lang": "en",
+   "pages": 340,
+   "creators": [
+    "Arundhati Roy"
+   ],
+   "synopsis": "Twins in 1969 Kerala live through a family tragedy shaped by caste, forbidden love and the 'Love Laws'.",
+   "providers": [],
+   "wiki": "The God of Small Things",
+   "authorWiki": "Arundhati Roy",
+   "source": "seed",
+   "qid": "Q378786",
+   "views30": 23068,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/1/1e/Thegodofsmallthings.jpg",
+   "posterW": 250,
+   "posterH": 400,
+   "olid": "OL1052138W",
+   "cover": "https://covers.openlibrary.org/b/id/10513792-L.jpg",
+   "olRating": 3.81,
+   "olCount": 78,
+   "pop": 70
+  },
+  {
+   "id": "b-alchemist",
+   "type": "book",
+   "title": "The Alchemist",
+   "year": 1988,
+   "genres": [
+    "literary",
+    "fantasy"
+   ],
+   "moods": [
+    "feelgood",
+    "cozy"
+   ],
+   "lang": "pt",
+   "pages": 197,
+   "creators": [
+    "Paulo Coelho"
+   ],
+   "synopsis": "An Andalusian shepherd boy follows a recurring dream across the desert in search of treasure and his purpose.",
+   "providers": [],
+   "wiki": "The Alchemist (novel)",
+   "authorWiki": "Paulo Coelho",
+   "source": "seed",
+   "qid": "Q179021",
+   "views30": 55268,
+   "poster": "https://upload.wikimedia.org/wikipedia/commons/c/c4/TheAlchemist.jpg",
+   "posterW": 516,
+   "posterH": 770,
+   "olid": "OL17742777W",
+   "cover": "https://covers.openlibrary.org/b/id/11556106-L.jpg",
+   "olRating": 4.0,
+   "olCount": 5,
+   "pop": 76
+  },
+  {
+   "id": "b-james",
+   "type": "book",
+   "title": "James",
+   "year": 2024,
+   "released": "2024-03-19",
+   "genres": [
+    "literary",
+    "historical",
+    "adventure"
+   ],
+   "moods": [
+    "emotional",
+    "funny"
+   ],
+   "lang": "en",
+   "pages": 320,
+   "creators": [
+    "Percival Everett"
+   ],
+   "synopsis": "The Adventures of Huckleberry Finn reimagined through the eyes of Jim, clever, defiant and determined to free his family.",
+   "providers": [],
+   "wiki": "James (novel)",
+   "authorWiki": "Percival Everett",
+   "source": "seed",
+   "qid": "Q126679110",
+   "views30": 17086,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/9/92/James_%28Everett_novel%29.jpg",
+   "posterW": 258,
+   "posterH": 387,
+   "olid": "OL36506504W",
+   "cover": "https://covers.openlibrary.org/b/id/15094964-L.jpg",
+   "olRating": 4.1,
+   "olCount": 10,
+   "pop": 68
+  },
+  {
+   "id": "b-educated",
+   "type": "book",
+   "title": "Educated",
+   "year": 2018,
+   "genres": [
+    "memoir",
+    "nonfiction"
+   ],
+   "moods": [
+    "emotional"
+   ],
+   "lang": "en",
+   "pages": 334,
+   "creators": [
+    "Tara Westover"
+   ],
+   "synopsis": "Raised by survivalists in Idaho with no schooling, Tara Westover teaches herself enough to reach Cambridge and Harvard.",
+   "providers": [],
+   "wiki": "Educated (memoir)",
+   "authorWiki": "Tara Westover",
+   "source": "seed",
+   "qid": "Q61064573",
+   "views30": 14627,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/1/1f/Educated_%28Tara_Westover%29.png",
+   "posterW": 260,
+   "posterH": 393,
+   "olid": "OL18139176W",
+   "cover": "https://covers.openlibrary.org/b/id/8314077-L.jpg",
+   "olRating": 4.45,
+   "olCount": 22,
+   "pop": 67
+  },
+  {
+   "id": "b-piranesi",
+   "type": "book",
+   "title": "Piranesi",
+   "year": 2020,
+   "genres": [
+    "fantasy",
+    "mystery"
+   ],
+   "moods": [
+    "mindbending",
+    "cozy"
+   ],
+   "lang": "en",
+   "pages": 272,
+   "creators": [
+    "Susanna Clarke"
+   ],
+   "synopsis": "A gentle man lives alone in an endless house of statues and tides, until clues suggest someone else is out there.",
+   "providers": [],
+   "wiki": "Piranesi (novel)",
+   "authorWiki": "Susanna Clarke",
+   "source": "seed",
+   "qid": "Q99434216",
+   "views30": 55439,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/2/24/Piranesi_%28Susanna_Clarke%29.png",
+   "posterW": 260,
+   "posterH": 372,
+   "olid": "OL20893680W",
+   "cover": "https://covers.openlibrary.org/b/id/10226290-L.jpg",
+   "olRating": 4.33,
+   "olCount": 63,
+   "pop": 76
+  },
+  {
+   "id": "b-heartlamp",
+   "type": "book",
+   "title": "Heart Lamp",
+   "year": 2025,
+   "released": "2025-04-01",
+   "genres": [
+    "literary"
+   ],
+   "moods": [
+    "emotional"
+   ],
+   "lang": "kn",
+   "pages": 224,
+   "creators": [
+    "Banu Mushtaq",
+    "Deepa Bhasthi (translator)"
+   ],
+   "synopsis": "Stories of women's everyday lives in Muslim communities of southern India, translated from Kannada.",
+   "providers": [],
+   "wiki": "Heart Lamp",
+   "authorWiki": "Banu Mushtaq",
+   "source": "seed",
+   "qid": "Q134547019",
+   "views30": 2340,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/5/59/HeartLamp.jpeg",
+   "posterW": 254,
+   "posterH": 392,
+   "olid": "OL42418897W",
+   "cover": "https://covers.openlibrary.org/b/id/15179944-L.jpg",
+   "olRating": 4.0,
+   "olCount": 2,
+   "pop": 54
+  },
+  {
+   "id": "b-klara",
+   "type": "book",
+   "title": "Klara and the Sun",
+   "year": 2021,
+   "genres": [
+    "scifi",
+    "literary"
+   ],
+   "moods": [
+    "emotional"
+   ],
+   "lang": "en",
+   "pages": 303,
+   "creators": [
+    "Kazuo Ishiguro"
+   ],
+   "synopsis": "An observant Artificial Friend watches the world from a shop window, then devotes herself to a sick teenage girl.",
+   "providers": [],
+   "wiki": "Klara and the Sun",
+   "authorWiki": "Kazuo Ishiguro",
+   "source": "seed",
+   "qid": "Q105704813",
+   "views30": 66515,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/2/26/Klara_and_the_Sun_%28Kazuo_Ishiguro%29.png",
+   "posterW": 250,
+   "posterH": 385,
+   "olid": "OL20883297W",
+   "cover": "https://covers.openlibrary.org/b/id/10648686-L.jpg",
+   "olRating": 3.79,
+   "olCount": 48,
+   "pop": 77
+  },
+  {
+   "id": "b-shogun",
+   "type": "book",
+   "title": "Shōgun",
+   "year": 1975,
+   "genres": [
+    "historical",
+    "adventure"
+   ],
+   "moods": [
+    "epic"
+   ],
+   "lang": "en",
+   "pages": 1152,
+   "creators": [
+    "James Clavell"
+   ],
+   "synopsis": "An English pilot shipwrecked in 1600 Japan is caught up in the deadly politics of a warlord's rise to power.",
+   "providers": [],
+   "wiki": "Shōgun (novel)",
+   "authorWiki": "James Clavell",
+   "pair": "s-shogun",
+   "source": "seed",
+   "qid": "Q1336124",
+   "views30": 20265,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/9/9b/Shogun.jpg",
+   "posterW": 255,
+   "posterH": 395,
+   "olid": "OL26785215M",
+   "cover": "https://covers.openlibrary.org/b/id/2394441-L.jpg",
+   "olRating": 4.29,
+   "olCount": 24,
+   "pop": 69
+  },
+  {
+   "id": "b-normalpeople",
+   "type": "book",
+   "title": "Normal People",
+   "year": 2018,
+   "genres": [
+    "romance",
+    "literary"
+   ],
+   "moods": [
+    "emotional"
+   ],
+   "lang": "en",
+   "pages": 273,
+   "creators": [
+    "Sally Rooney"
+   ],
+   "synopsis": "Connell and Marianne circle each other for years, from a small Irish town to Trinity College Dublin.",
+   "providers": [],
+   "wiki": "Normal People",
+   "authorWiki": "Sally Rooney",
+   "pair": "s-normalpeople",
+   "source": "seed",
+   "qid": "Q55360383",
+   "views30": 18278,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/a/a0/Normal_People_%28Rooney_novel%29.png",
+   "posterW": 249,
+   "posterH": 401,
+   "olid": "OL20150260W",
+   "cover": "https://covers.openlibrary.org/b/id/8794265-L.jpg",
+   "olRating": 4.02,
+   "olCount": 81,
+   "pop": 68
+  },
+  {
+   "id": "b-agot",
+   "type": "book",
+   "title": "A Game of Thrones",
+   "year": 1996,
+   "genres": [
+    "fantasy",
+    "adventure"
+   ],
+   "moods": [
+    "epic",
+    "dark"
+   ],
+   "lang": "en",
+   "pages": 694,
+   "creators": [
+    "George R. R. Martin"
+   ],
+   "synopsis": "Lord Eddard Stark is pulled south into the deadly politics of the royal court as winter, and something worse, approaches.",
+   "providers": [],
+   "wiki": "A Game of Thrones",
+   "authorWiki": "George R. R. Martin",
+   "pair": "s-got",
+   "source": "seed",
+   "qid": "Q1751870",
+   "views30": 45269,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/9/93/AGameOfThrones.jpg",
+   "posterW": 259,
+   "posterH": 385,
+   "olid": "OL257943W",
+   "cover": "https://covers.openlibrary.org/b/id/9269962-L.jpg",
+   "olRating": 4.22,
+   "olCount": 763,
+   "pop": 74
+  },
+  {
+   "id": "b-hamnet",
+   "type": "book",
+   "title": "Hamnet",
+   "year": 2020,
+   "genres": [
+    "historical",
+    "literary"
+   ],
+   "moods": [
+    "emotional"
+   ],
+   "lang": "en",
+   "pages": 372,
+   "creators": [
+    "Maggie O'Farrell"
+   ],
+   "synopsis": "An imagining of the life and death of Shakespeare's son, told mostly through his mother Agnes.",
+   "providers": [],
+   "wiki": "Hamnet (novel)",
+   "authorWiki": "Maggie O'Farrell",
+   "pair": "m-hamnet",
+   "source": "seed",
+   "qid": "Q96380258",
+   "views30": 13484,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/a/aa/Hamnet_%28book_cover%29.jpg",
+   "posterW": 256,
+   "posterH": 394,
+   "olid": "OL20743965W",
+   "cover": "https://covers.openlibrary.org/b/id/10306590-L.jpg",
+   "olRating": 4.13,
+   "olCount": 15,
+   "pop": 66
+  },
+  {
+   "id": "b-intermezzo",
+   "type": "book",
+   "title": "Intermezzo",
+   "year": 2024,
+   "released": "2024-09-24",
+   "genres": [
+    "literary",
+    "romance"
+   ],
+   "moods": [
+    "emotional"
+   ],
+   "lang": "en",
+   "pages": 448,
+   "creators": [
+    "Sally Rooney"
+   ],
+   "synopsis": "Two grieving brothers, very different men, each fall into complicated relationships after their father's death.",
+   "providers": [],
+   "wiki": "Intermezzo (novel)",
+   "authorWiki": "Sally Rooney",
+   "source": "seed",
+   "qid": "Q131036665",
+   "views30": 7882,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/0/0d/Intermezzo_Sally_Rooney_book_cover.jpg",
+   "posterW": 248,
+   "posterH": 397,
+   "olid": "OL37949460W",
+   "cover": "https://covers.openlibrary.org/b/id/14836043-L.jpg",
+   "olRating": 3.38,
+   "olCount": 8,
+   "pop": 62
+  },
+  {
+   "id": "wd-Q125131076",
+   "qid": "Q125131076",
+   "type": "movie",
+   "title": "Backrooms",
+   "wiki": "Backrooms (film)",
+   "source": "auto",
+   "added": "2026-10-11",
+   "imdbId": "tt26657236",
+   "tmdb": {
+    "type": "movie",
+    "id": "1083381"
+   },
+   "released": "2026-05-29",
+   "year": 2026,
+   "genres": [
+    "horror",
+    "adventure",
+    "scifi",
+    "mystery"
+   ],
+   "moods": [
+    "dark",
+    "thrilling",
+    "epic"
+   ],
+   "lang": "en",
+   "creators": [
+    "Kane Parsons"
+   ],
+   "cast": [
+    "Renate Reinsve",
+    "Mark Duplass",
+    "Avan Jogia",
+    "Finn Bennett"
+   ],
+   "providers": [
+    "rent"
+   ],
+   "runtime": 110,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/3/3d/Backrooms_%28film%29_poster.jpg",
+   "posterW": 260,
+   "posterH": 385,
+   "views30": 939848,
+   "synopsis": "Backrooms is a 2026 American psychological horror film directed and co-scored by Kane Parsons, and written by Will Soodik. It is based on Parsons's web series which was inspired by the \"Backrooms\" creepypasta.",
+   "synopsisSource": "wikipedia",
+   "trailer": "0HjdiohVOik",
+   "backdrop": "https://i.ytimg.com/vi/0HjdiohVOik/maxresdefault.jpg",
+   "pop": 96
+  },
+  {
+   "id": "wd-Q117429496",
+   "qid": "Q117429496",
+   "type": "movie",
+   "title": "Hope",
+   "wiki": "Hope (2026 film)",
+   "source": "auto",
+   "added": "2026-10-11",
+   "imdbId": "tt27369017",
+   "tmdb": {
+    "type": "movie",
+    "id": "1058424"
+   },
+   "released": "2026-09-09",
+   "year": 2026,
+   "genres": [
+    "thriller",
+    "scifi",
+    "mystery",
+    "horror"
+   ],
+   "moods": [
+    "thrilling",
+    "dark",
+    "mindbending"
+   ],
+   "lang": "ko",
+   "creators": [
+    "Na Hong-jin"
+   ],
+   "cast": [
+    "Hwang Jung-min",
+    "Zo In-sung",
+    "Jung Ho-yeon",
+    "Michael Fassbender"
+   ],
+   "providers": [
+    "rent"
+   ],
+   "runtime": 157,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/0/03/Hope_%282026_film%29_poster.png",
+   "posterW": 265,
+   "posterH": 377,
+   "views30": 511591,
+   "synopsis": "Hope (Korean: 호프) is a 2026 South Korean epic science fiction monster film written, directed, and co-produced by Na Hong-jin. Featuring the ensemble cast included Hwang Jung-min, Zo In-sung, Jung Ho-yeon, Taylor Russell, Cameron Britton, Alicia Vikander, and Michael Fassbender, the film centers on a village police chief and his rookie deputy who must defend his local community from a mysterious creature after wildfir",
+   "synopsisSource": "wikipedia",
+   "trailer": "zXUdRQPLBjk",
+   "backdrop": "https://i.ytimg.com/vi/zXUdRQPLBjk/maxresdefault.jpg",
+   "pop": 91
+  },
+  {
+   "id": "wd-Q140517950",
+   "qid": "Q140517950",
+   "type": "show",
+   "title": "Furious",
+   "wiki": "Furious (TV series)",
+   "source": "auto",
+   "added": "2026-10-11",
+   "imdbId": "tt36303968",
+   "tmdb": {
+    "type": "tv",
+    "id": "287238"
+   },
+   "released": "2026-07-27",
+   "year": 2026,
+   "genres": [
+    "crime",
+    "drama",
+    "thriller"
+   ],
+   "moods": [
+    "dark",
+    "thrilling",
+    "emotional"
+   ],
+   "lang": "en",
+   "creators": [
+    "Elizabeth Meriwether"
+   ],
+   "cast": [
+    "Emmy Rossum",
+    "Lola Petticrew",
+    "Quincy Tyler Bernstine",
+    "Scoot McNairy"
+   ],
+   "providers": [
+    "fx"
+   ],
+   "poster": "https://static.tvmaze.com/uploads/images/original_untouched/634/1585631.jpg",
+   "posterW": 680,
+   "posterH": 1000,
+   "views30": 363298,
+   "synopsis": "Furious is an American crime drama television series created by Elizabeth Meriwether and loosely inspired by the 1987 film Black Widow by Ronald Bass. Produced by 20th Television and Searchlight Television, the series stars Emmy Rossum as FBI agent Alice Black, alongside Lola Petticrew as a calculating serial killer Catherine Grace.",
+   "synopsisSource": "wikipedia",
+   "trailer": "Avky8dVaqAI",
+   "backdrop": "https://i.ytimg.com/vi/Avky8dVaqAI/maxresdefault.jpg",
+   "pop": 89,
+   "tvmazeId": 87753,
+   "network": "Hulu",
+   "seasons": 1,
+   "latestSeason": 1
+  },
+  {
+   "id": "wd-Q141131777",
+   "qid": "Q141131777",
+   "type": "show",
+   "title": "Merry Berry Love",
+   "wiki": "Merry Berry Love",
+   "source": "auto",
+   "added": "2026-10-11",
+   "imdbId": "tt38937897",
+   "tmdb": {
+    "type": "tv",
+    "id": "305551"
+   },
+   "released": "2026-10-07",
+   "year": 2026,
+   "genres": [
+    "comedy",
+    "romance"
+   ],
+   "moods": [
+    "funny",
+    "feelgood",
+    "emotional"
+   ],
+   "lang": "ja",
+   "creators": [],
+   "cast": [],
+   "providers": [
+    "fx"
+   ],
+   "poster": "https://static.tvmaze.com/uploads/images/original_untouched/639/1598985.jpg",
+   "posterW": 680,
+   "posterH": 1000,
+   "views30": 30465,
+   "synopsis": "Merry Berry Love  is an ongoing Japanese-South Korean romantic comedy television series written by Lee Tae-yoon, directed by Kim Soo-jung and Noh Young-seop. Produced under CJ ENM and Nippon Television, it stars Ji Chang-wook and Mio Imada.",
+   "synopsisSource": "wikipedia",
+   "trailer": "3c68oabNkJs",
+   "backdrop": "https://i.ytimg.com/vi/3c68oabNkJs/maxresdefault.jpg",
+   "pop": 72,
+   "tvmazeId": 93925,
+   "network": "NTV",
+   "seasons": 1,
+   "latestSeason": 1
+  },
+  {
+   "id": "wd-Q136565785",
+   "qid": "Q136565785",
+   "type": "movie",
+   "title": "Resident Evil",
+   "wiki": "Resident Evil (2026 film)",
+   "source": "auto",
+   "added": "2026-10-11",
+   "imdbId": "tt35538033",
+   "tmdb": {
+    "type": "movie",
+    "id": "1423191"
+   },
+   "released": "2026-09-18",
+   "year": 2026,
+   "genres": [
+    "scifi",
+    "horror"
+   ],
+   "moods": [
+    "mindbending",
+    "epic",
+    "dark"
+   ],
+   "lang": "en",
+   "creators": [
+    "Zach Cregger"
+   ],
+   "cast": [
+    "Austin Abrams",
+    "Paul Walter Hauser",
+    "Zach Cherry",
+    "Kali Reis"
+   ],
+   "providers": [
+    "rent"
+   ],
+   "runtime": 95,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/3/3c/Resident_Evil_2026_film_poster.png",
+   "posterW": 260,
+   "posterH": 385,
+   "views30": 3034842,
+   "synopsis": "Resident Evil is a 2026 American horror film directed by Zach Cregger and written by Cregger and Shay Hatten, based on the Resident Evil video game franchise by Capcom. It is the eighth live-action Resident Evil film, and a reboot.",
+   "synopsisSource": "wikipedia",
+   "trailer": "mNd1gb19A-c",
+   "backdrop": "https://i.ytimg.com/vi/mNd1gb19A-c/maxresdefault.jpg",
+   "pop": 100
+  },
+  {
+   "id": "wd-Q129677718",
+   "qid": "Q129677718",
+   "type": "movie",
+   "title": "Digger",
+   "wiki": "Digger (2026 film)",
+   "source": "auto",
+   "added": "2026-10-11",
+   "imdbId": "tt31450459",
+   "tmdb": {
+    "type": "movie",
+    "id": "1248832"
+   },
+   "released": "2026-10-02",
+   "year": 2026,
+   "genres": [
+    "drama",
+    "comedy"
+   ],
+   "moods": [
+    "emotional",
+    "funny",
+    "feelgood"
+   ],
+   "lang": "en",
+   "creators": [
+    "Alejandro González Iñárritu"
+   ],
+   "cast": [
+    "Tom Cruise",
+    "Sandra Hüller",
+    "John Goodman",
+    "Michael Stuhlbarg"
+   ],
+   "providers": [
+    "hbo"
+   ],
+   "runtime": 128,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/7/7b/Digger_%282026_film%29_poster.jpg",
+   "posterW": 259,
+   "posterH": 384,
+   "views30": 2571058,
+   "synopsis": "Digger is a 2026 American satirical black comedy film directed, co-written, and co-produced by Alejandro González Iñárritu. Tom Cruise, who also produced the film, stars as Digger Rockwell, an aging oil magnate whose drilling sets off an ecological disaster.",
+   "synopsisSource": "wikipedia",
+   "trailer": "qORTe1wW3Wg",
+   "backdrop": "https://i.ytimg.com/vi/qORTe1wW3Wg/maxresdefault.jpg",
+   "pop": 100
+  },
+  {
+   "id": "wd-Q110556821",
+   "qid": "Q110556821",
+   "type": "show",
+   "title": "Lanterns",
+   "wiki": "Lanterns (TV series)",
+   "source": "auto",
+   "added": "2026-10-11",
+   "imdbId": "tt26545992",
+   "tmdb": {
+    "type": "tv",
+    "id": "95350"
+   },
+   "released": "2026-08-16",
+   "year": 2026,
+   "genres": [
+    "drama",
+    "action",
+    "scifi",
+    "mystery"
+   ],
+   "moods": [
+    "emotional",
+    "thrilling",
+    "mindbending"
+   ],
+   "lang": "en",
+   "creators": [],
+   "cast": [
+    "Kyle Chandler",
+    "Aaron Pierre",
+    "Nathan Fillion",
+    "Garret Dillahunt"
+   ],
+   "providers": [
+    "hbo"
+   ],
+   "seasons": 1,
+   "views30": 2160333,
+   "synopsis": "Lanterns is an American superhero television series created by Chris Mundy, Damon Lindelof, and Tom King for HBO, based on the DC Comics Green Lantern characters Hal Jordan and John Stewart. It is the third television series in the DC Universe (DCU).",
+   "synopsisSource": "wikipedia",
+   "tvmazeId": 44776,
+   "poster": "https://static.tvmaze.com/uploads/images/original_untouched/637/1592971.jpg",
+   "posterW": 680,
+   "posterH": 1000,
+   "network": "HBO",
+   "latestSeason": 1,
+   "trailer": "7UIBOsuUwc4",
+   "backdrop": "https://i.ytimg.com/vi/7UIBOsuUwc4/maxresdefault.jpg",
+   "pop": 100
+  },
+  {
+   "id": "wd-Q138527176",
+   "qid": "Q138527176",
+   "type": "movie",
+   "title": "Hanuman Ansh",
+   "wiki": "Hanuman Ansh",
+   "source": "auto",
+   "added": "2026-10-11",
+   "imdbId": "tt39390582",
+   "tmdb": {
+    "type": "movie",
+    "id": "1709391"
+   },
+   "released": "2026-08-07",
+   "year": 2026,
+   "genres": [
+    "historical"
+   ],
+   "moods": [
+    "emotional"
+   ],
+   "lang": "hi",
+   "creators": [
+    "Vishal Chaturvedi"
+   ],
+   "cast": [
+    "Chandan Anand"
+   ],
+   "providers": [
+    "rent"
+   ],
+   "runtime": 150,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/0/0e/Official_poster_for_the_Hanuman_Ansh_%282026%29_film.jpg",
+   "posterW": 282,
+   "posterH": 353,
+   "views30": 1927017,
+   "synopsis": "Hanuman Ansh is a 2026 Indian Hindi-language biographical film written, directed and produced by Vishal Chaturvedi under his banner, Swambhu Media Network. Serving as the first instalment of a trilogy, it is based on his book Divine Detour: That Changed My Life, based on the life of Neem Karoli Baba.",
+   "synopsisSource": "wikipedia",
+   "trailer": "YpGhCA2X3gU",
+   "backdrop": "https://i.ytimg.com/vi/YpGhCA2X3gU/maxresdefault.jpg",
+   "pop": 100
+  },
+  {
+   "id": "wd-Q130633026",
+   "qid": "Q130633026",
+   "type": "show",
+   "title": "East of Eden",
+   "wiki": "East of Eden (2026 miniseries)",
+   "source": "auto",
+   "added": "2026-10-11",
+   "imdbId": "tt21097264",
+   "tmdb": {
+    "type": "tv",
+    "id": "258165"
+   },
+   "released": "2026-10-01",
+   "year": 2026,
+   "genres": [
+    "drama"
+   ],
+   "moods": [
+    "emotional"
+   ],
+   "lang": "en",
+   "creators": [
+    "Garth Davis",
+    "Laure de Clermont-Tonnerre"
+   ],
+   "cast": [
+    "Florence Pugh",
+    "Joseph Zada",
+    "Christopher Abbott",
+    "Mike Faist"
+   ],
+   "providers": [
+    "netflix"
+   ],
+   "seasons": 1,
+   "poster": "https://static.tvmaze.com/uploads/images/original_untouched/643/1609556.jpg",
+   "posterW": 680,
+   "posterH": 1000,
+   "views30": 1540417,
+   "synopsis": "East of Eden is a 2026 American historical drama television limited series created by Zoe Kazan, starring Florence Pugh. It is adapted from the 1952 novel by John Steinbeck and premiered on Netflix on October 1, 2026.",
+   "synopsisSource": "wikipedia",
+   "tvmazeId": 79399,
+   "network": "Netflix",
+   "latestSeason": 1,
+   "trailer": "M9NWvGZViCg",
+   "backdrop": "https://i.ytimg.com/vi/M9NWvGZViCg/maxresdefault.jpg",
+   "pop": 99
+  },
+  {
+   "id": "wd-Q133273688",
+   "qid": "Q133273688",
+   "type": "movie",
+   "title": "Primetime",
+   "wiki": "Primetime (film)",
+   "source": "auto",
+   "added": "2026-10-11",
+   "imdbId": "tt34206385",
+   "tmdb": {
+    "type": "movie",
+    "id": "1375441"
+   },
+   "released": "2026-09-25",
+   "year": 2026,
+   "genres": [
+    "historical",
+    "thriller",
+    "crime"
+   ],
+   "moods": [
+    "epic",
+    "emotional",
+    "thrilling"
+   ],
+   "lang": "en",
+   "creators": [
+    "Lance Oppenheim"
+   ],
+   "cast": [
+    "Robert Pattinson",
+    "Phoebe Bridgers",
+    "Merritt Wever",
+    "Sean Bridgers"
+   ],
+   "providers": [
+    "rent"
+   ],
+   "runtime": 110,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/f/f2/Primetime_poster.jpeg",
+   "posterW": 259,
+   "posterH": 384,
+   "views30": 1512828,
+   "synopsis": "Primetime is a 2026 American psychological thriller film directed by Lance Oppenheim from a screenplay by Ajon Singh. It dramatizes the production of the reality television series To Catch a Predator (2004–2007); Robert Pattinson portrays its host Chris Hansen, an NBC journalist who works with the vigilante group Perverted-Justice to catch child predators in sting operations.",
+   "synopsisSource": "wikipedia",
+   "trailer": "5fHXyqQOKL8",
+   "backdrop": "https://i.ytimg.com/vi/5fHXyqQOKL8/maxresdefault.jpg",
+   "pop": 99
+  },
+  {
+   "id": "wd-Q131523413",
+   "qid": "Q131523413",
+   "type": "movie",
+   "title": "Verity",
+   "wiki": "Verity (film)",
+   "source": "auto",
+   "added": "2026-10-11",
+   "imdbId": "tt32261958",
+   "tmdb": {
+    "type": "movie",
+    "id": "1283515"
+   },
+   "released": "2026-10-02",
+   "year": 2026,
+   "genres": [
+    "crime",
+    "drama",
+    "mystery",
+    "thriller"
+   ],
+   "moods": [
+    "dark",
+    "thrilling",
+    "emotional"
+   ],
+   "lang": "en",
+   "creators": [
+    "Michael Showalter"
+   ],
+   "cast": [
+    "Dakota Johnson",
+    "Josh Hartnett",
+    "Ismaël Cruz Córdova"
+   ],
+   "providers": [
+    "prime"
+   ],
+   "runtime": 117,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/6/60/Verity_poster.jpg",
+   "posterW": 260,
+   "posterH": 385,
+   "views30": 1337902,
+   "synopsis": "Verity is a 2026 American erotic psychological thriller film directed by Michael Showalter, written by Nick Antosca, and based on Colleen Hoover's 2018 novel. The film stars Anne Hathaway, Dakota Johnson, and Josh Hartnett.",
+   "synopsisSource": "wikipedia",
+   "trailer": "xdPMKhjMSFs",
+   "backdrop": "https://i.ytimg.com/vi/xdPMKhjMSFs/maxresdefault.jpg",
+   "pop": 98
+  },
+  {
+   "id": "wd-Q131547207",
+   "qid": "Q131547207",
+   "type": "movie",
+   "title": "The Odyssey",
+   "wiki": "The Odyssey (2026 film)",
+   "source": "auto",
+   "added": "2026-10-11",
+   "imdbId": "tt33764258",
+   "tmdb": {
+    "type": "movie",
+    "id": "1368337"
+   },
+   "released": "2026-07-17",
+   "year": 2026,
+   "genres": [
+    "fantasy",
+    "adventure",
+    "action",
+    "historical"
+   ],
+   "moods": [
+    "epic",
+    "thrilling",
+    "emotional"
+   ],
+   "lang": "en",
+   "creators": [
+    "Christopher Nolan"
+   ],
+   "cast": [
+    "Matt Damon",
+    "Lupita Nyong'o"
+   ],
+   "providers": [
+    "universal"
+   ],
+   "runtime": 172,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/9/90/The_Odyssey_%282026_film%29_poster.jpg",
+   "posterW": 250,
+   "posterH": 370,
+   "views30": 1289829,
+   "synopsis": "The Odyssey is a 2026 epic action fantasy film written and directed by Christopher Nolan, who produced it with his wife Emma Thomas. An adaptation of Homer's ancient Greek epic poem the Odyssey, it stars an ensemble cast including Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Lupita Nyong'o, Samantha Morton, Zendaya, and Charlize Theron.",
+   "synopsisSource": "wikipedia",
+   "trailer": "f_bKjZeJBBI",
+   "backdrop": "https://i.ytimg.com/vi/f_bKjZeJBBI/maxresdefault.jpg",
+   "pop": 98
+  },
+  {
+   "id": "wd-Q138716562",
+   "qid": "Q138716562",
+   "type": "movie",
+   "title": "Bethlehem Kudumba Unit",
+   "wiki": "Bethlehem Kudumba Unit",
+   "source": "auto",
+   "added": "2026-10-11",
+   "imdbId": "tt37535100",
+   "tmdb": {
+    "type": "movie",
+    "id": "1508168"
+   },
+   "released": "2026-08-21",
+   "year": 2026,
+   "genres": [
+    "comedy",
+    "romance"
+   ],
+   "moods": [
+    "funny",
+    "feelgood",
+    "emotional"
+   ],
+   "lang": "ml",
+   "creators": [
+    "Girish A.D"
+   ],
+   "cast": [
+    "Nivin Pauly",
+    "Mamitha Baiju",
+    "Suresh Krishna",
+    "Vinay Forrt"
+   ],
+   "providers": [
+    "rent"
+   ],
+   "runtime": 156,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/b/b4/Bethlehem_Kudumba_Unit_Movie_Poster.jpg",
+   "posterW": 273,
+   "posterH": 364,
+   "views30": 1190050,
+   "synopsis": "Bethlehem Kudumba Unit is a 2026 Indian Malayalam-language romantic comedy film starring Nivin Pauly and Mamitha Baiju in the lead roles, directed by Girish A. D.",
+   "synopsisSource": "wikipedia",
+   "trailer": "v9pwWJ1wGek",
+   "backdrop": "https://i.ytimg.com/vi/v9pwWJ1wGek/maxresdefault.jpg",
+   "pop": 97
+  },
+  {
+   "id": "wd-Q109901438",
+   "qid": "Q109901438",
+   "type": "show",
+   "title": "Reacher",
+   "wiki": "Reacher (TV series)",
+   "source": "auto",
+   "added": "2026-10-11",
+   "imdbId": "tt9288030",
+   "tmdb": {
+    "type": "tv",
+    "id": "108978"
+   },
+   "released": "2026-08-12",
+   "year": 2026,
+   "genres": [
+    "action",
+    "thriller",
+    "mystery",
+    "crime"
+   ],
+   "moods": [
+    "thrilling",
+    "dark",
+    "mindbending"
+   ],
+   "lang": "en",
+   "creators": [
+    "Thomas Vincent"
+   ],
+   "cast": [
+    "Alan Ritchson",
+    "Malcolm Goodwin",
+    "Willa Fitzgerald"
+   ],
+   "providers": [
+    "prime"
+   ],
+   "seasons": 4,
+   "poster": "https://static.tvmaze.com/uploads/images/original_untouched/636/1591350.jpg",
+   "posterW": 680,
+   "posterH": 1000,
+   "views30": 513729,
+   "synopsis": "Reacher is an American action crime television series developed by Nick Santora for Amazon Prime Video. Based on the Jack Reacher novel series by Lee Child, it stars Alan Ritchson as the title character, a self-proclaimed drifter and former U.S.",
+   "synopsisSource": "wikipedia",
+   "tvmazeId": 43031,
+   "network": "Prime Video",
+   "latestSeason": 4,
+   "trailer": "PCbp1FfipPg",
+   "backdrop": "https://i.ytimg.com/vi/PCbp1FfipPg/maxresdefault.jpg",
+   "pop": 91
+  },
+  {
+   "id": "wd-Q135094933",
+   "qid": "Q135094933",
+   "type": "movie",
+   "title": "Vishwanath & Sons",
+   "wiki": "Vishwanath & Sons",
+   "source": "auto",
+   "added": "2026-10-11",
+   "imdbId": "tt35836025",
+   "tmdb": {
+    "type": "movie",
+    "id": "1408162"
+   },
+   "released": "2026-08-14",
+   "year": 2026,
+   "genres": [
+    "drama"
+   ],
+   "moods": [
+    "emotional"
+   ],
+   "lang": "ta",
+   "creators": [
+    "Venky Atluri"
+   ],
+   "cast": [
+    "Suriya"
+   ],
+   "providers": [
+    "rent"
+   ],
+   "poster": "https://upload.wikimedia.org/wikipedia/en/2/22/Vishwanath_%26_Sons_poster.jpg",
+   "posterW": 250,
+   "posterH": 334,
+   "views30": 1049856,
+   "synopsis": "Vishwanath & Sons is a 2026 Indian Tamil-language romantic family drama film written and directed by Venky Atluri. Produced by Sithara Entertainments and Fortune Four Cinemas, the film stars Suriya, alongside Mamitha Baiju, Radhika Sarathkumar, and Raveena Tandon.",
+   "synopsisSource": "wikipedia",
+   "trailer": "95xXBEsmWLU",
+   "backdrop": "https://i.ytimg.com/vi/95xXBEsmWLU/maxresdefault.jpg",
+   "pop": 96
+  },
+  {
+   "id": "wd-Q131900904",
+   "qid": "Q131900904",
+   "type": "movie",
+   "title": "Heart of the Beast",
+   "wiki": "Heart of the Beast",
+   "source": "auto",
+   "added": "2026-10-11",
+   "imdbId": "tt7526136",
+   "tmdb": {
+    "type": "movie",
+    "id": "1263337"
+   },
+   "released": "2026-09-25",
+   "year": 2026,
+   "genres": [
+    "action",
+    "adventure"
+   ],
+   "moods": [
+    "thrilling",
+    "epic"
+   ],
+   "lang": "en",
+   "creators": [
+    "David Ayer"
+   ],
+   "cast": [
+    "Brad Pitt",
+    "J. K. Simmons",
+    "Anna Lambe"
+   ],
+   "providers": [
+    "paramount"
+   ],
+   "runtime": 101,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/4/49/Heart_of_the_Beast_film_poster.jpg",
+   "posterW": 250,
+   "posterH": 370,
+   "views30": 924066,
+   "synopsis": "Heart of the Beast is a 2026 American survival thriller film directed by David Ayer and written by Cameron Alexander. The film stars Brad Pitt as a retired Special Forces veteran navigating a grueling 58-mile (93-kilometer) trek to safety with his traumatized combat German Shepherd after their seaplane crashes in the Alaskan wilderness.",
+   "synopsisSource": "wikipedia",
+   "trailer": "JFQcDFhNh4o",
+   "backdrop": "https://i.ytimg.com/vi/JFQcDFhNh4o/maxresdefault.jpg",
+   "pop": 95
+  },
+  {
+   "id": "wd-Q136163067",
+   "qid": "Q136163067",
+   "type": "movie",
+   "title": "Obsession",
+   "wiki": "Obsession (2025 film)",
+   "source": "auto",
+   "added": "2026-10-11",
+   "imdbId": "tt37287335",
+   "tmdb": {
+    "type": "movie",
+    "id": "1339713"
+   },
+   "released": "2026-05-15",
+   "year": 2026,
+   "genres": [
+    "horror"
+   ],
+   "moods": [
+    "dark",
+    "thrilling"
+   ],
+   "lang": "en",
+   "creators": [
+    "Curry Barker"
+   ],
+   "cast": [
+    "Michael Johnston",
+    "Inde Navarrette",
+    "Andy Richter",
+    "Jeff Barker"
+   ],
+   "providers": [
+    "universal"
+   ],
+   "runtime": 109,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/0/05/Obsession_theatrical_poster.jpeg",
+   "posterW": 260,
+   "posterH": 385,
+   "views30": 911842,
+   "synopsis": "Obsession is a 2025 American supernatural horror film written, directed, and edited by Curry Barker. It follows the shop clerk Bear, whose friend Nikki falls dangerously in love with him after he makes a wish.",
+   "synopsisSource": "wikipedia",
+   "trailer": "gMC8kkwbIQQ",
+   "backdrop": "https://i.ytimg.com/vi/gMC8kkwbIQQ/maxresdefault.jpg",
+   "pop": 95
+  },
+  {
+   "id": "wd-Q141336617",
+   "qid": "Q141336617",
+   "type": "movie",
+   "title": "You Can See Everything",
+   "wiki": "You Can See Everything",
+   "source": "auto",
+   "added": "2026-10-11",
+   "imdbId": "tt45368240",
+   "tmdb": {
+    "type": "movie",
+    "id": "1765072"
+   },
+   "released": "2026-10-16",
+   "year": 2026,
+   "genres": [
+    "documentary"
+   ],
+   "moods": [
+    "emotional"
+   ],
+   "lang": "en",
+   "creators": [
+    "Lance Oppenheim",
+    "Nathan Fielder"
+   ],
+   "cast": [
+    "Elizabeth Holmes",
+    "Nathan Fielder"
+   ],
+   "providers": [
+    "rent"
+   ],
+   "runtime": 174,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/9/9d/You_Can_See_Everything_poster.jpeg",
+   "posterW": 259,
+   "posterH": 384,
+   "views30": 904798,
+   "synopsis": "You Can See Everything is a 2026 American documentary film directed by Nathan Fielder and Lance Oppenheim. It follows Elizabeth Holmes, the founder of the defunct health technology company Theranos, and her partner Billy Evans, who invite a film crew to document them beginning in the weeks before Holmes began serving a United States federal prison sentence for defrauding investors.",
+   "synopsisSource": "wikipedia",
+   "trailer": "HvW_N5p1q44",
+   "backdrop": "https://i.ytimg.com/vi/HvW_N5p1q44/maxresdefault.jpg",
+   "pop": 95
+  },
+  {
+   "id": "wd-Q138335503",
+   "qid": "Q138335503",
+   "type": "movie",
+   "title": "Forgotten Island",
+   "wiki": "Forgotten Island",
+   "source": "auto",
+   "added": "2026-10-11",
+   "imdbId": "tt36583977",
+   "tmdb": {
+    "type": "movie",
+    "id": "1465063"
+   },
+   "released": "2026-09-25",
+   "year": 2026,
+   "genres": [
+    "drama",
+    "fantasy",
+    "adventure",
+    "comedy"
+   ],
+   "moods": [
+    "emotional",
+    "epic",
+    "funny"
+   ],
+   "lang": "en",
+   "creators": [
+    "Joel Crawford",
+    "Januel Mercado"
+   ],
+   "cast": [],
+   "providers": [
+    "universal"
+   ],
+   "runtime": 109,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/6/65/Forgotten_Island_poster.jpeg",
+   "posterW": 250,
+   "posterH": 396,
+   "views30": 894592,
+   "synopsis": "Forgotten Island is a 2026 American animated fantasy comedy film written and directed by Joel Crawford and Januel Mercado. Produced by DreamWorks Animation, the film features the voices of H.E.R., Liza Soberano, Dave Franco, Jenny Slate, Manny Jacinto, Dolly de Leon, Jo Koy, Ronny Chieng, Kevin McCann, and Lea Salonga.",
+   "synopsisSource": "wikipedia",
+   "trailer": "a8RHqN93qfo",
+   "backdrop": "https://i.ytimg.com/vi/a8RHqN93qfo/maxresdefault.jpg",
+   "pop": 95
+  },
+  {
+   "id": "wd-Q132661267",
+   "qid": "Q132661267",
+   "type": "show",
+   "title": "Neagley",
+   "wiki": "Neagley",
+   "source": "auto",
+   "added": "2026-10-11",
+   "imdbId": "tt33539520",
+   "tmdb": {
+    "type": "tv",
+    "id": "273207"
+   },
+   "released": "2026-09-16",
+   "year": 2026,
+   "genres": [
+    "crime",
+    "drama",
+    "action"
+   ],
+   "moods": [
+    "dark",
+    "thrilling",
+    "emotional"
+   ],
+   "lang": "en",
+   "creators": [],
+   "cast": [
+    "Maria Sten"
+   ],
+   "providers": [
+    "prime"
+   ],
+   "poster": "https://static.tvmaze.com/uploads/images/original_untouched/641/1604422.jpg",
+   "posterW": 680,
+   "posterH": 1000,
+   "views30": 846157,
+   "synopsis": "Neagley is an American action crime television series created by Nick Santora and Nicholas Wootton for Amazon Prime Video. Based on the character created by Lee Child, it is a spin-off of the television series Reacher.",
+   "synopsisSource": "wikipedia",
+   "tvmazeId": 82707,
+   "network": "Prime Video",
+   "seasons": 1,
+   "latestSeason": 1,
+   "trailer": "BOzNaa_o9_g",
+   "backdrop": "https://i.ytimg.com/vi/BOzNaa_o9_g/maxresdefault.jpg",
+   "pop": 95
+  },
+  {
+   "id": "wd-Q133852728",
+   "qid": "Q133852728",
+   "type": "show",
+   "title": "Carrie",
+   "wiki": "Carrie (miniseries)",
+   "source": "auto",
+   "added": "2026-10-11",
+   "imdbId": "tt11540908",
+   "tmdb": {
+    "type": "tv",
+    "id": "288673"
+   },
+   "released": "2026-10-07",
+   "year": 2026,
+   "genres": [
+    "horror",
+    "drama"
+   ],
+   "moods": [
+    "dark",
+    "thrilling",
+    "emotional"
+   ],
+   "lang": "en",
+   "creators": [
+    "Mike Flanagan"
+   ],
+   "cast": [
+    "Summer H. Howell",
+    "Danielle Klaudt"
+   ],
+   "providers": [
+    "prime"
+   ],
+   "seasons": 1,
+   "poster": "https://static.tvmaze.com/uploads/images/original_untouched/644/1611660.jpg",
+   "posterW": 680,
+   "posterH": 1000,
+   "views30": 838209,
+   "synopsis": "Carrie is an American supernatural horror television miniseries developed by Mike Flanagan, and produced by Amazon MGM Studios for Amazon Prime Video. The first series adaptation of the eponymous franchise, it is based on the 1974 novel by Stephen King, and is the fourth screen adaptation of the novel.",
+   "synopsisSource": "wikipedia",
+   "tvmazeId": 45562,
+   "network": "Prime Video",
+   "latestSeason": 1,
+   "trailer": "jkUw2nh6fT0",
+   "backdrop": "https://i.ytimg.com/vi/jkUw2nh6fT0/maxresdefault.jpg",
+   "pop": 95
+  },
+  {
+   "id": "wd-Q106392679",
+   "qid": "Q106392679",
+   "type": "movie",
+   "title": "Coyote vs. Acme",
+   "wiki": "Coyote vs. Acme",
+   "source": "auto",
+   "added": "2026-10-11",
+   "imdbId": "tt1756855",
+   "tmdb": {
+    "type": "movie",
+    "id": "1204680"
+   },
+   "released": "2026-08-28",
+   "year": 2026,
+   "genres": [
+    "comedy",
+    "adventure",
+    "family",
+    "fantasy"
+   ],
+   "moods": [
+    "funny",
+    "feelgood",
+    "epic"
+   ],
+   "lang": "en",
+   "creators": [
+    "Dave Green"
+   ],
+   "cast": [
+    "John Cena",
+    "Lana Condor",
+    "Will Forte",
+    "P.J. Byrne"
+   ],
+   "providers": [
+    "rent"
+   ],
+   "runtime": 103,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/c/c0/Coyote_vs._Acme_poster.jpg",
+   "posterW": 260,
+   "posterH": 385,
+   "views30": 830547,
+   "synopsis": "Coyote vs. Acme is a 2026 American comedy film directed by Dave Green and written by Samy Burch, who developed the story with James Gunn and Jeremy Slater.",
+   "synopsisSource": "wikipedia",
+   "trailer": "fY_gBf8QVR0",
+   "backdrop": "https://i.ytimg.com/vi/fY_gBf8QVR0/maxresdefault.jpg",
+   "pop": 95
+  },
+  {
+   "id": "wd-Q134588273",
+   "qid": "Q134588273",
+   "type": "movie",
+   "title": "Other Mommy",
+   "wiki": "Other Mommy",
+   "source": "auto",
+   "added": "2026-10-11",
+   "imdbId": "tt36586020",
+   "tmdb": {
+    "type": "movie",
+    "id": "1400837"
+   },
+   "released": "2026-10-09",
+   "year": 2026,
+   "genres": [
+    "horror"
+   ],
+   "moods": [
+    "dark",
+    "thrilling"
+   ],
+   "lang": "en",
+   "creators": [
+    "Rob Savage"
+   ],
+   "cast": [
+    "Jessica Chastain",
+    "Jay Duplass",
+    "Dichen Lachman",
+    "Karen Allen"
+   ],
+   "providers": [
+    "universal"
+   ],
+   "runtime": 93,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/d/d2/Other_Mommy_poster.jpg",
+   "posterW": 250,
+   "posterH": 396,
+   "views30": 794144,
+   "synopsis": "Other Mommy is a 2026 American supernatural psychological horror film directed by Rob Savage and written by Nathan Elston. The film is based on the 2024 novel Incidents Around the House by Josh Malerman.",
+   "synopsisSource": "wikipedia",
+   "trailer": "bEpTgowZ1dI",
+   "backdrop": "https://i.ytimg.com/vi/bEpTgowZ1dI/maxresdefault.jpg",
+   "pop": 94
+  },
+  {
+   "id": "wd-Q123740702",
+   "qid": "Q123740702",
+   "type": "movie",
+   "title": "Toxic",
+   "wiki": "Toxic (2026 film)",
+   "source": "auto",
+   "added": "2026-10-11",
+   "imdbId": "tt27530512",
+   "tmdb": {
+    "type": "movie",
+    "id": "1213243"
+   },
+   "released": "2026-08-26",
+   "year": 2026,
+   "genres": [
+    "action",
+    "drama",
+    "crime",
+    "comedy"
+   ],
+   "moods": [
+    "thrilling",
+    "emotional",
+    "dark"
+   ],
+   "lang": "en",
+   "creators": [
+    "Geetu Mohandas"
+   ],
+   "cast": [],
+   "providers": [
+    "rent"
+   ],
+   "poster": "https://upload.wikimedia.org/wikipedia/en/0/0b/Toxic-_A_Fairy_Tale_for_Grown-Ups_poster.jpg",
+   "posterW": 467,
+   "posterH": 200,
+   "views30": 735001,
+   "synopsis": "Toxic: A Fairy Tale for Grown-Ups is a 2026 Indian psychological thriller gangster film directed by Geetu Mohandas and jointly produced by Venkat K. Narayana and Yash through KVN Productions and Monster Mind Creations respectively.",
+   "synopsisSource": "wikipedia",
+   "trailer": "f5M1d7r2UNQ",
+   "backdrop": "https://i.ytimg.com/vi/f5M1d7r2UNQ/maxresdefault.jpg",
+   "pop": 94
+  },
+  {
+   "id": "wd-Q131901398",
+   "qid": "Q131901398",
+   "type": "movie",
+   "title": "Practical Magic 2",
+   "wiki": "Practical Magic 2",
+   "source": "auto",
+   "added": "2026-10-11",
+   "imdbId": "tt32588798",
+   "tmdb": {
+    "type": "movie",
+    "id": "1302904"
+   },
+   "released": "2026-09-10",
+   "year": 2026,
+   "genres": [
+    "romance",
+    "fantasy"
+   ],
+   "moods": [
+    "emotional",
+    "epic"
+   ],
+   "lang": "en",
+   "creators": [
+    "Susanne Bier"
+   ],
+   "cast": [
+    "Sandra Bullock",
+    "Nicole Kidman",
+    "Stockard Channing",
+    "Dianne Wiest"
+   ],
+   "providers": [
+    "hbo"
+   ],
+   "runtime": 130,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/4/47/Practical_Magic_2_%28film_poster%29.png",
+   "posterW": 260,
+   "posterH": 385,
+   "views30": 725229,
+   "synopsis": "Practical Magic 2 is a 2026 American romantic fantasy film directed by Susanne Bier from a screenplay by Akiva Goldsman, Georgia Pritchett, and Kelly Marcel, based on the 2021 novel The Book of Magic by Alice Hoffman. The sequel to Practical Magic (1998), the film stars Sandra Bullock, Nicole Kidman, Dianne Wiest, and Stockard Channing reprising their roles from the previous film, alongside new cast members Joey King",
+   "synopsisSource": "wikipedia",
+   "trailer": "Ho10_4IX1jE",
+   "backdrop": "https://i.ytimg.com/vi/Ho10_4IX1jE/maxresdefault.jpg",
+   "pop": 94
+  },
+  {
+   "id": "wd-Q124804916",
+   "qid": "Q124804916",
+   "type": "movie",
+   "title": "The End of Oak Street",
+   "wiki": "The End of Oak Street",
+   "source": "auto",
+   "added": "2026-10-11",
+   "imdbId": "tt27165187",
+   "tmdb": {
+    "type": "movie",
+    "id": "1101383"
+   },
+   "released": "2026-08-14",
+   "year": 2026,
+   "genres": [
+    "scifi"
+   ],
+   "moods": [
+    "mindbending",
+    "epic"
+   ],
+   "lang": "en",
+   "creators": [
+    "David Robert Mitchell"
+   ],
+   "cast": [
+    "Ewan McGregor",
+    "Maisy Stella",
+    "Christian Convery"
+   ],
+   "providers": [
+    "hbo"
+   ],
+   "runtime": 99,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/7/7e/The_End_of_Oak_Street_poster.jpg",
+   "posterW": 259,
+   "posterH": 384,
+   "views30": 703031,
+   "synopsis": "The End of Oak Street is a 2026 American science fiction survival film written, co-produced, and directed by David Robert Mitchell. It stars Anne Hathaway, Ewan McGregor, Maisy Stella and Christian Convery as a family whose suburban neighborhood has been transported from 1982 into the age of dinosaurs.",
+   "synopsisSource": "wikipedia",
+   "trailer": "3oB9AxspVow",
+   "backdrop": "https://i.ytimg.com/vi/3oB9AxspVow/maxresdefault.jpg",
+   "pop": 94
+  },
+  {
+   "id": "wd-Q136387857",
+   "qid": "Q136387857",
+   "type": "movie",
+   "title": "The Social Reckoning",
+   "wiki": "The Social Reckoning",
+   "source": "auto",
+   "added": "2026-10-11",
+   "imdbId": "tt37510326",
+   "tmdb": {
+    "type": "movie",
+    "id": "1281331"
+   },
+   "released": "2026-10-09",
+   "year": 2026,
+   "genres": [
+    "drama",
+    "historical"
+   ],
+   "moods": [
+    "emotional",
+    "epic"
+   ],
+   "lang": "en",
+   "creators": [
+    "Aaron Sorkin"
+   ],
+   "cast": [
+    "Jeremy Strong",
+    "Jeremy Allen White",
+    "Mikey Madison",
+    "Bill Burr"
+   ],
+   "providers": [
+    "rent"
+   ],
+   "poster": "https://upload.wikimedia.org/wikipedia/en/a/a1/The_Social_Reckoning_poster.jpeg",
+   "posterW": 258,
+   "posterH": 387,
+   "views30": 591887,
+   "synopsis": "The Social Reckoning is a 2026 American biographical legal thriller film written, co-produced, and directed by Aaron Sorkin. A follow-up to The Social Network (2010), it dramatizes the 2021 Facebook leak by the whistleblower Frances Haugen and Jeff Horwitz.",
+   "synopsisSource": "wikipedia",
+   "trailer": "gM4LkaXwGuY",
+   "backdrop": "https://i.ytimg.com/vi/gM4LkaXwGuY/maxresdefault.jpg",
+   "pop": 92
+  },
+  {
+   "id": "wd-Q139596561",
+   "qid": "Q139596561",
+   "type": "movie",
+   "title": "Unabomber",
+   "wiki": "Unabomber (film)",
+   "source": "auto",
+   "added": "2026-10-11",
+   "imdbId": "tt6933238",
+   "tmdb": {
+    "type": "movie",
+    "id": "1492640"
+   },
+   "released": "2026-09-25",
+   "year": 2026,
+   "genres": [
+    "drama",
+    "historical",
+    "thriller"
+   ],
+   "moods": [
+    "emotional",
+    "epic",
+    "thrilling"
+   ],
+   "lang": "en",
+   "creators": [
+    "Janus Metz Pedersen"
+   ],
+   "cast": [
+    "Jacob Tremblay",
+    "Russell Crowe",
+    "Shailene Woodley",
+    "Annabelle Wallis"
+   ],
+   "providers": [
+    "netflix"
+   ],
+   "runtime": 100,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/2/20/Unabomber_poster.jpeg",
+   "posterW": 283,
+   "posterH": 354,
+   "views30": 562346,
+   "synopsis": "Unabomber is a 2026 American crime drama film directed by Janus Metz Pedersen and written by Sam Chalsen and Nelson Greaves based on the domestic terrorist, Ted Kaczynski. The film stars Russell Crowe, Jacob Tremblay, Annabelle Wallis, and Shailene Woodley.",
+   "synopsisSource": "wikipedia",
+   "trailer": "B3tR6qQjbgI",
+   "backdrop": "https://i.ytimg.com/vi/B3tR6qQjbgI/maxresdefault.jpg",
+   "pop": 92
+  },
+  {
+   "id": "wd-Q136540069",
+   "qid": "Q136540069",
+   "type": "movie",
+   "title": "The Love Hypothesis",
+   "wiki": "The Love Hypothesis (film)",
+   "source": "auto",
+   "added": "2026-10-11",
+   "imdbId": "tt22526100",
+   "tmdb": {
+    "type": "movie",
+    "id": "1032863"
+   },
+   "released": "2026-09-23",
+   "year": 2026,
+   "genres": [
+    "comedy",
+    "romance"
+   ],
+   "moods": [
+    "funny",
+    "feelgood",
+    "emotional"
+   ],
+   "lang": "en",
+   "creators": [
+    "Claire Scanlon"
+   ],
+   "cast": [
+    "Lili Reinhart",
+    "Tom Bateman",
+    "Rachel Marsh",
+    "Jaboukie Young-White"
+   ],
+   "providers": [
+    "rent"
+   ],
+   "runtime": 112,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/2/25/The_Love_Hypothesis_poster.jpeg",
+   "posterW": 258,
+   "posterH": 387,
+   "views30": 560687,
+   "synopsis": "The Love Hypothesis is a 2026 American romantic comedy film directed by Claire Scanlon from a screenplay by Sarah Rothschild, based on the 2021 novel by Ali Hazelwood, in turn based off of a Rey/Kylo Ren fanfiction. The film stars Tom Bateman and Lili Reinhart and follows professor Dr.",
+   "synopsisSource": "wikipedia",
+   "trailer": "xwdamnfS6IM",
+   "backdrop": "https://i.ytimg.com/vi/xwdamnfS6IM/maxresdefault.jpg",
+   "pop": 92
+  },
+  {
+   "id": "wd-Q133842356",
+   "qid": "Q133842356",
+   "type": "show",
+   "title": "Brothers",
+   "wiki": "Brothers (2026 TV series)",
+   "source": "auto",
+   "added": "2026-10-11",
+   "imdbId": "tt6773088",
+   "tmdb": {
+    "type": "tv",
+    "id": "250203"
+   },
+   "released": "2026-09-23",
+   "year": 2026,
+   "genres": [
+    "comedy"
+   ],
+   "moods": [
+    "funny",
+    "feelgood"
+   ],
+   "lang": "en",
+   "creators": [],
+   "cast": [
+    "Matthew McConaughey",
+    "Woody Harrelson"
+   ],
+   "providers": [
+    "apple"
+   ],
+   "views30": 537340,
+   "synopsis": "Brothers is an American comedy television series created by Matthew McConaughey & Woody Harrelson, Lee Eisenberg, and David West Read. The series premiered on September 23, 2026.",
+   "synopsisSource": "wikipedia",
+   "tvmazeId": 68625,
+   "poster": "https://static.tvmaze.com/uploads/images/original_untouched/642/1606577.jpg",
+   "posterW": 680,
+   "posterH": 1000,
+   "network": "Apple TV",
+   "seasons": 1,
+   "latestSeason": 1,
+   "trailer": "fIKFnzIcfcA",
+   "backdrop": "https://i.ytimg.com/vi/fIKFnzIcfcA/maxresdefault.jpg",
+   "pop": 92
+  },
+  {
+   "id": "wd-Q135103999",
+   "qid": "Q135103999",
+   "type": "movie",
+   "title": "The Uprising",
+   "wiki": "The Uprising (2026 film)",
+   "source": "auto",
+   "added": "2026-10-11",
+   "imdbId": "tt36983905",
+   "tmdb": {
+    "type": "movie",
+    "id": "977942"
+   },
+   "released": "2026-09-10",
+   "year": 2026,
+   "genres": [
+    "action",
+    "historical",
+    "drama"
+   ],
+   "moods": [
+    "thrilling",
+    "epic",
+    "emotional"
+   ],
+   "lang": "en",
+   "creators": [
+    "Paul Greengrass"
+   ],
+   "cast": [
+    "Andrew Garfield",
+    "Katherine Waterston",
+    "Jamie Bell",
+    "Cosmo Jarvis"
+   ],
+   "providers": [
+    "universal"
+   ],
+   "runtime": 128,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/d/d7/The_Uprising_%282026_film%29_poster.jpg",
+   "posterW": 260,
+   "posterH": 385,
+   "views30": 537036,
+   "synopsis": "The Uprising is a 2026 historical action drama film written, produced and directed by Paul Greengrass. It stars Andrew Garfield, Jamie Bell, Stephen Dillane, Tom Hollander, Cosmo Jarvis, Thomasin McKenzie, Jonny Lee Miller, Woody Norman and Katherine Waterston.",
+   "synopsisSource": "wikipedia",
+   "trailer": "ZVkrhHebz1Q",
+   "backdrop": "https://i.ytimg.com/vi/ZVkrhHebz1Q/maxresdefault.jpg",
+   "pop": 92
+  },
+  {
+   "id": "wd-Q137356269",
+   "qid": "Q137356269",
+   "type": "movie",
+   "title": "Buddy",
+   "wiki": "Buddy (2026 film)",
+   "source": "auto",
+   "added": "2026-10-11",
+   "imdbId": "tt37281055",
+   "tmdb": {
+    "type": "movie",
+    "id": "1514026"
+   },
+   "released": "2026-08-28",
+   "year": 2026,
+   "genres": [
+    "horror"
+   ],
+   "moods": [
+    "dark",
+    "thrilling"
+   ],
+   "lang": "en",
+   "creators": [
+    "Casper Kelly"
+   ],
+   "cast": [
+    "Cristin Milioti",
+    "Topher Grace",
+    "Keegan-Michael Key",
+    "Michael Shannon"
+   ],
+   "providers": [
+    "rent"
+   ],
+   "runtime": 96,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/4/4d/Buddy_%282026_film%29_poster.jpg",
+   "posterW": 259,
+   "posterH": 384,
+   "views30": 508975,
+   "synopsis": "Buddy is a 2026 American postmodernist supernatural black comedy slasher film directed by Casper Kelly and written by Kelly and Jamie King. The film stars Cristin Milioti, Delaney Quinn, Patton Oswalt, Clint Howard, Michael Shannon, Topher Grace, and Keegan-Michael Key as the voice of the title character.",
+   "synopsisSource": "wikipedia",
+   "trailer": "O1fNEHX9tSM",
+   "backdrop": "https://i.ytimg.com/vi/O1fNEHX9tSM/maxresdefault.jpg",
+   "pop": 91
+  },
+  {
+   "id": "wd-Q135025214",
+   "qid": "Q135025214",
+   "type": "movie",
+   "title": "Drishyam 3",
+   "wiki": "Drishyam 3",
+   "source": "auto",
+   "added": "2026-10-11",
+   "imdbId": "tt14113634",
+   "tmdb": {
+    "type": "movie",
+    "id": "847742"
+   },
+   "released": "2026-05-21",
+   "year": 2026,
+   "genres": [
+    "crime",
+    "drama"
+   ],
+   "moods": [
+    "dark",
+    "thrilling",
+    "emotional"
+   ],
+   "lang": "ml",
+   "creators": [
+    "Jeethu Joseph"
+   ],
+   "cast": [
+    "Mohanlal",
+    "Meena",
+    "Ansiba Hassan",
+    "Esther Anil"
+   ],
+   "providers": [
+    "rent"
+   ],
+   "runtime": 160,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/a/a1/Drishyam_3_poster.jpg",
+   "posterW": 274,
+   "posterH": 365,
+   "views30": 470899,
+   "synopsis": "Drishyam 3: The Past Never Stays Silent, or simply Drishyam 3, is a 2026 Indian Malayalam-language crime drama film written and directed by Jeethu Joseph. Produced by Antony Perumbavoor for Aashirvad Cinemas, it is a sequel to Drishyam 2 (2021) and the third installment in the Drishyam film series.",
+   "synopsisSource": "wikipedia",
+   "trailer": "BSZZwBaNQAA",
+   "backdrop": "https://i.ytimg.com/vi/BSZZwBaNQAA/maxresdefault.jpg",
+   "pop": 91
+  },
+  {
+   "id": "wd-Q134876629",
+   "qid": "Q134876629",
+   "type": "movie",
+   "title": "Whalefall",
+   "wiki": "Whalefall (film)",
+   "source": "auto",
+   "added": "2026-10-11",
+   "imdbId": "tt28535715",
+   "tmdb": {
+    "type": "movie",
+    "id": "1255833"
+   },
+   "released": "2026-10-16",
+   "year": 2026,
+   "genres": [
+    "thriller"
+   ],
+   "moods": [
+    "thrilling",
+    "dark"
+   ],
+   "lang": "en",
+   "creators": [
+    "Brian Duffield"
+   ],
+   "cast": [
+    "Austin Abrams",
+    "Josh Brolin",
+    "Elisabeth Shue",
+    "John Ortiz"
+   ],
+   "providers": [
+    "disney"
+   ],
+   "runtime": 99,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/1/18/Whalefall_poster.jpeg",
+   "posterW": 260,
+   "posterH": 385,
+   "views30": 442806,
+   "synopsis": "Whalefall is a 2026 American survival thriller film directed and produced by Brian Duffield, based on the 2023 novel by Daniel Kraus, who co-wrote the script with Duffield. The film follows a scuba diver who, while searching for the remains of his father, is swallowed alive by a sperm whale and attempts to escape.",
+   "synopsisSource": "wikipedia",
+   "trailer": "rN9F6-tbySY",
+   "backdrop": "https://i.ytimg.com/vi/rN9F6-tbySY/maxresdefault.jpg",
+   "pop": 90
+  },
+  {
+   "id": "wd-Q133852597",
+   "qid": "Q133852597",
+   "type": "movie",
+   "title": "The Whisper Man",
+   "wiki": "The Whisper Man",
+   "source": "auto",
+   "added": "2026-10-11",
+   "imdbId": "tt11561116",
+   "tmdb": {
+    "type": "movie",
+    "id": "860508"
+   },
+   "released": "2026-08-28",
+   "year": 2026,
+   "genres": [
+    "thriller",
+    "crime"
+   ],
+   "moods": [
+    "thrilling",
+    "dark"
+   ],
+   "lang": "en",
+   "creators": [
+    "James Ashcroft"
+   ],
+   "cast": [
+    "Robert De Niro",
+    "Michelle Monaghan",
+    "Adam Scott",
+    "Michael Keaton"
+   ],
+   "providers": [
+    "netflix"
+   ],
+   "runtime": 114,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/5/54/The_Whisper_Man_poster.jpg",
+   "posterW": 260,
+   "posterH": 385,
+   "views30": 407623,
+   "synopsis": "The Whisper Man is a 2026 American crime thriller film directed by James Ashcroft and written by Ben Jacoby and Chase Palmer. It is based on the novel of the same name by Alex North and stars Robert De Niro, Michelle Monaghan, and Adam Scott.",
+   "synopsisSource": "wikipedia",
+   "trailer": "ZHRR-1CKYIQ",
+   "backdrop": "https://i.ytimg.com/vi/ZHRR-1CKYIQ/maxresdefault.jpg",
+   "pop": 90
+  },
+  {
+   "id": "wd-Q129255849",
+   "qid": "Q129255849",
+   "type": "movie",
+   "title": "Sardar 2",
+   "wiki": "Sardar 2",
+   "source": "auto",
+   "added": "2026-10-11",
+   "imdbId": "tt28541577",
+   "tmdb": {
+    "type": "movie",
+    "id": "1317872"
+   },
+   "released": "2026-09-10",
+   "year": 2026,
+   "genres": [
+    "drama"
+   ],
+   "moods": [
+    "emotional"
+   ],
+   "lang": "ta",
+   "creators": [
+    "P.S Mithran"
+   ],
+   "cast": [
+    "Karthik Siva kumar"
+   ],
+   "providers": [
+    "rent"
+   ],
+   "poster": "https://upload.wikimedia.org/wikipedia/en/6/6b/Sardar_2_Poster.jpg",
+   "posterW": 250,
+   "posterH": 337,
+   "views30": 393513,
+   "synopsis": "Sardar 2 is a 2026 Indian Tamil-language spy action thriller film directed by P. S.",
+   "synopsisSource": "wikipedia",
+   "trailer": "pR1CGsbC6jw",
+   "backdrop": "https://i.ytimg.com/vi/pR1CGsbC6jw/maxresdefault.jpg",
+   "pop": 90
+  },
+  {
+   "id": "wd-Q113641997",
+   "qid": "Q113641997",
+   "type": "movie",
+   "title": "Toy Story 5",
+   "wiki": "Toy Story 5",
+   "source": "auto",
+   "added": "2026-10-11",
+   "imdbId": "tt29355505",
+   "tmdb": {
+    "type": "movie",
+    "id": "1084244"
+   },
+   "released": "2026-06-19",
+   "year": 2026,
+   "genres": [
+    "adventure",
+    "comedy",
+    "family",
+    "animation"
+   ],
+   "moods": [
+    "epic",
+    "funny",
+    "feelgood"
+   ],
+   "lang": "en",
+   "creators": [
+    "Andrew Stanton"
+   ],
+   "cast": [],
+   "providers": [
+    "disney"
+   ],
+   "runtime": 102,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/0/08/Toy_Story_5_poster.jpg",
+   "posterW": 260,
+   "posterH": 385,
+   "views30": 390344,
+   "synopsis": "Toy Story 5 is a 2026 American animated comedy-drama film directed by Andrew Stanton written by Stanton and Kenna Harris, and produced by Pixar Animation Studios for Walt Disney Pictures. It features the voices of Tom Hanks, Tim Allen, and Joan Cusack among those reprising their roles, joined by Conan O'Brien, Scarlett Spears, Greta Lee, Shelby Rabara, Mykal-Michelle Harris, and Craig Robinson.",
+   "synopsisSource": "wikipedia",
+   "trailer": "c51ND9Hdbw0",
+   "backdrop": "https://i.ytimg.com/vi/c51ND9Hdbw0/maxresdefault.jpg",
+   "pop": 89
+  },
+  {
+   "id": "wd-Q116921951",
+   "qid": "Q116921951",
+   "type": "movie",
+   "title": "Supergirl",
+   "wiki": "Supergirl (2026 film)",
+   "source": "auto",
+   "added": "2026-10-11",
+   "imdbId": "tt8814476",
+   "tmdb": {
+    "type": "movie",
+    "id": "1081003"
+   },
+   "released": "2026-06-26",
+   "year": 2026,
+   "genres": [
+    "action",
+    "scifi"
+   ],
+   "moods": [
+    "thrilling",
+    "mindbending",
+    "epic"
+   ],
+   "lang": "en",
+   "creators": [
+    "Craig Gillespie"
+   ],
+   "cast": [
+    "Milly Alcock",
+    "Matthias Schoenaerts",
+    "Eve Ridley",
+    "David Krumholtz"
+   ],
+   "providers": [
+    "hbo"
+   ],
+   "runtime": 108,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/5/58/Supergirl_%282026_film%29_poster.jpg",
+   "posterW": 260,
+   "posterH": 385,
+   "views30": 376196,
+   "synopsis": "Supergirl is a 2026 American superhero film based on the DC Comics superheroine Kara Zor-El / Supergirl. Directed by Craig Gillespie and written by Ana Nogueira, it is the second film in the DC Universe (DCU).",
+   "synopsisSource": "wikipedia",
+   "trailer": "s1-pfiVMKAs",
+   "backdrop": "https://i.ytimg.com/vi/s1-pfiVMKAs/maxresdefault.jpg",
+   "pop": 89
+  },
+  {
+   "id": "wd-Q138836131",
+   "qid": "Q138836131",
+   "type": "show",
+   "title": "Stuart Fails to Save the Universe",
+   "wiki": "Stuart Fails to Save the Universe",
+   "source": "auto",
+   "added": "2026-10-11",
+   "imdbId": "tt27497393",
+   "tmdb": {
+    "type": "tv",
+    "id": "287620"
+   },
+   "released": "2026-07-23",
+   "year": 2026,
+   "genres": [
+    "comedy"
+   ],
+   "moods": [
+    "funny",
+    "feelgood"
+   ],
+   "lang": "en",
+   "creators": [
+    "Kyle Newacheck",
+    "Jonathan Frakes",
+    "Robert Duncan McNeill"
+   ],
+   "cast": [
+    "Kevin Sussman",
+    "Brian Posehn",
+    "Lauren Lapkus",
+    "John Ross Bowie"
+   ],
+   "providers": [
+    "hbo"
+   ],
+   "seasons": 1,
+   "poster": "https://static.tvmaze.com/uploads/images/original_untouched/633/1584491.jpg",
+   "posterW": 680,
+   "posterH": 1000,
+   "views30": 350329,
+   "synopsis": "Stuart Fails to Save the Universe is an American science fiction comedy television series created and written by Chuck Lorre, Zak Penn, and Bill Prady. The series is the second direct spin-off of the sitcom The Big Bang Theory, the overall fourth television series in the franchise, and stars Kevin Sussman, Lauren Lapkus, Brian Posehn, and John Ross Bowie.",
+   "synopsisSource": "wikipedia",
+   "tvmazeId": 83360,
+   "network": "HBO Max",
+   "latestSeason": 1,
+   "trailer": "X_EW1a53GHE",
+   "backdrop": "https://i.ytimg.com/vi/X_EW1a53GHE/maxresdefault.jpg",
+   "pop": 89
+  },
+  {
+   "id": "wd-Q134434223",
+   "qid": "Q134434223",
+   "type": "movie",
+   "title": "Teenage Sex and Death at Camp Miasma",
+   "wiki": "Teenage Sex and Death at Camp Miasma",
+   "source": "auto",
+   "added": "2026-10-11",
+   "imdbId": "tt35298123",
+   "tmdb": {
+    "type": "movie",
+    "id": "1240889"
+   },
+   "released": "2026-08-07",
+   "year": 2026,
+   "genres": [
+    "horror",
+    "comedy",
+    "romance",
+    "drama"
+   ],
+   "moods": [
+    "dark",
+    "thrilling",
+    "funny"
+   ],
+   "lang": "en",
+   "creators": [
+    "Jane Schoenbrun"
+   ],
+   "cast": [
+    "Gillian Anderson",
+    "Hannah Einbinder",
+    "Amanda Fix"
+   ],
+   "providers": [
+    "rent"
+   ],
+   "runtime": 112,
+   "poster": "https://upload.wikimedia.org/wikipedia/en/b/b0/Teenage_Sex_and_Death_at_Camp_Miasma_poster.jpg",
+   "posterW": 260,
+   "posterH": 385,
+   "views30": 346298,
+   "synopsis": "Teenage Sex And Death At Camp Miasma is a 2026 American satirical surrealist psychological romantic slasher film written and directed by Jane Schoenbrun. It stars Hannah Einbinder and Gillian Anderson, with Jack Haven and Patrick Fischler in supporting roles.",
+   "synopsisSource": "wikipedia",
+   "trailer": "dimCiC_hdoA",
+   "backdrop": "https://i.ytimg.com/vi/dimCiC_hdoA/maxresdefault.jpg",
+   "pop": 89
+  },
+  {
+   "id": "wd-Q137476131",
+   "qid": "Q137476131",
+   "type": "show",
+   "title": "The Scandal",
+   "wiki": "The Scandal (2026 TV series)",
+   "source": "auto",
+   "added": "2026-10-11",
+   "imdbId": "tt36347588",
+   "tmdb": {
+    "type": "tv",
+    "id": "275102"
+   },
+   "released": "2026-09-18",
+   "year": 2026,
+   "genres": [
+    "drama"
+   ],
+   "moods": [
+    "emotional"
+   ],
+   "lang": "ko",
+   "creators": [],
+   "cast": [
+    "Son Ye-jin",
+    "Ji Chang-wook",
+    "Nana"
+   ],
+   "providers": [
+    "netflix"
+   ],
+   "poster": "https://static.tvmaze.com/uploads/images/original_untouched/641/1604826.jpg",
+   "posterW": 680,
+   "posterH": 1000,
+   "views30": 341236,
+   "synopsis": "The Scandal (Korean: 스캔들) is a 2026 South Korean period romance drama television series written by Lee Seung-young and Ahn Hye-song, directed by Jung Ji-woo, and starring Son Ye-jin, Ji Chang-wook, and Nana. The series is inspired by the French novel Les Liaisons dangereuses by Pierre Choderlos de Laclos and the 2003 film Untold Scandal by E J-yong, moving the story in Korea during Joseon dynasty era, and it follows ",
+   "synopsisSource": "wikipedia",
+   "tvmazeId": 91016,
+   "network": "Netflix",
+   "seasons": 1,
+   "latestSeason": 1,
+   "trailer": "psZC7lg2wek",
+   "pop": 89
+  }
+ ]
+}

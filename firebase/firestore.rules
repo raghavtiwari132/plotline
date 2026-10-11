@@ -1,0 +1,70 @@
+rules_version = '2';
+
+// Plotline — Cloud Firestore security rules
+//
+// users/{uid}                     private: taste profile + watchlist (owner only)
+// reviews/{titleId__uid}          public: one rating/review per person per title
+// reviews/{id}/likes/{uid}        public: who liked a review (one per person)
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    function signedIn() { return request.auth != null; }
+    function validRating(d) { return d.rating is int && d.rating >= 1 && d.rating <= 5; }
+    function validText(d) { return d.text is string && d.text.size() <= 2000; }
+    function validName(d) { return d.name is string && d.name.size() <= 80; }
+
+    match /users/{uid} {
+      allow read, write: if signedIn() && request.auth.uid == uid;
+    }
+
+    match /reviews/{reviewId} {
+      allow read: if true;
+
+      // Create your own review; the document id must be "<titleId>__<your uid>".
+      allow create: if signedIn()
+        && request.resource.data.uid == request.auth.uid
+        && reviewId == request.resource.data.titleId + '__' + request.auth.uid
+        && request.resource.data.likeCount == 0
+        && validRating(request.resource.data)
+        && validText(request.resource.data)
+        && validName(request.resource.data);
+
+      allow update: if signedIn() && (
+        // The author edits rating/text (cannot touch likes or ownership).
+        (resource.data.uid == request.auth.uid
+          && request.resource.data.uid == resource.data.uid
+          && request.resource.data.titleId == resource.data.titleId
+          && request.resource.data.likeCount == resource.data.likeCount
+          && validRating(request.resource.data)
+          && validText(request.resource.data)
+          && validName(request.resource.data))
+        ||
+        // Anyone toggles a like: only likeCount changes, by exactly one, together with their like doc.
+        (request.resource.data.diff(resource.data).affectedKeys().hasOnly(['likeCount'])
+          && (
+            (request.resource.data.likeCount == resource.data.likeCount + 1
+              && !exists(/databases/$(database)/documents/reviews/$(reviewId)/likes/$(request.auth.uid))
+              && existsAfter(/databases/$(database)/documents/reviews/$(reviewId)/likes/$(request.auth.uid)))
+            ||
+            (request.resource.data.likeCount == resource.data.likeCount - 1
+              && exists(/databases/$(database)/documents/reviews/$(reviewId)/likes/$(request.auth.uid))
+              && !existsAfter(/databases/$(database)/documents/reviews/$(reviewId)/likes/$(request.auth.uid)))
+          ))
+      );
+
+      allow delete: if signedIn() && resource.data.uid == request.auth.uid;
+
+      match /likes/{uid} {
+        allow read: if true;
+        // Likes must be written in the same transaction as the likeCount change.
+        allow create: if signedIn() && request.auth.uid == uid
+          && getAfter(/databases/$(database)/documents/reviews/$(reviewId)).data.likeCount
+             == get(/databases/$(database)/documents/reviews/$(reviewId)).data.likeCount + 1;
+        allow delete: if signedIn() && request.auth.uid == uid
+          && getAfter(/databases/$(database)/documents/reviews/$(reviewId)).data.likeCount
+             == get(/databases/$(database)/documents/reviews/$(reviewId)).data.likeCount - 1;
+      }
+    }
+  }
+}
