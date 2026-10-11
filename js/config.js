@@ -15,7 +15,14 @@ export const CONFIG = {
   //   projectId: 'your-project',
   //   appId: '1:123:web:abc',
   // },
-  firebase: null,
+  firebase: {
+    apiKey: 'AIzaSyB5r5-BbVBW_Oq7Gtpym-vTKw7d2mwvZV4',
+    authDomain: 'plotline-96cbd.firebaseapp.com',
+    projectId: 'plotline-96cbd',
+    storageBucket: 'plotline-96cbd.firebasestorage.app',
+    messagingSenderId: '668161039284',
+    appId: '1:668161039284:web:5aec1f2f90d6ef402f70e1',
+  },
 
   // Where the catalog comes from (written by tools/sync.py).
   catalogUrl: 'data/catalog.json',
